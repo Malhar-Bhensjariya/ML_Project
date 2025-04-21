@@ -1,0 +1,245 @@
+{
+    "Welcome": "मोबोर बायदि",
+    "Discover the power of AI with OdesseyAI": "OdysseyAI जों AI रो खोन्थो मोनफै",
+    "myCourses": {
+      "title": "आंनि कोर्सफोर",
+      "createCourse": "कोर्स सोरजि",
+      "noCourses": "कोर्स मोनाखै",
+      "startJourney": "गोदान कोर्स सोरजिबोनो आंनि सिखनाय जारिमिन सुरु कर!"
+    },
+    "error": {
+      "fetchCourses": "कोर्सफोर लानायाव नाराजाय"
+    },
+    "assignedCourses": {
+      "title": "आंनि नोंनि कोर्सफोर",
+      "assignedMessage": "नोंसोरखौ {{count}} कोर्स नोंनि थाखाय दानाय जादों",
+      "noCourses": "नोंनि थाखाय कोर्स मोनाखै",
+      "waitingMessage": "नोंनि मेंटरआ जोंखौ गुबुन कोर्स दाखै",
+      "completed": "खामानि खालामदों",
+      "assignedOn": "{{date}} खालि दानाय जादों",
+      "startLearning": "सिखनाय सुरु कर"
+    },
+    "courseLevels": {
+      "Basic": "मुंदांखा",
+      "Intermediate": "गोजौ मुंदांखा",
+      "Advanced": "बांसिन गोजौ"
+    },
+    "errorFetchingQuestions": "प्रश्नफोर लानायाव नाराजाय",
+    "errorUpdatingScore": "स्कर अपडेट खालामनायाव नाराजाय",
+    "loadingQuiz": "क्विज ल'ड जागासिनो दं...",
+    "challengeQuiz": "बे क्विजजों नोंखौ च्यालेन्ज खालाम!",
+    "quizDescription": "नोंनि गियानखौ टेस्ट खालाम आरो माबोरै गोजौ खालामनो हायो नों!",
+    "previous": "सिगांनि",
+    "next": "फारागौ",
+    "submitQuiz": "क्विज सबमिट खालाम",
+    "generateTest": "टेस्ट सोरजि",
+    "createPersonalizedAssessment": "गासैनो नोंनि थाखाय टेस्ट सोरजि",
+    "enterTopicPlaceholder": "बुंफुंनाय सायख (जेरै, React, Machine Learning)",
+    "generateNewAssessment": "गोदान टेस्ट सोरजि",
+    "yourAssessments": "नोंनि टेस्टफोर",
+    "trackLearningProgress": "नोंनि सिखनायखौ नाजा",
+    "totalTests": "मोदोमबां टेस्ट",
+    "noAssessmentsYet": "दानो टेस्ट मोनाखै",
+    "startLearningJourney": "टेस्ट सोरजिबोनो नोंनि सिखनाय जारिमिन सुरु कर!",
+    "score": "स्कर",
+    "reattemptTest": "टेस्ट फिन च्यालेन्ज खालाम",
+    "errorFetchingAssessments": "टेस्टफोर लानायाव नाराजाय",
+    "errorGeneratingAssessment": "टेस्ट सोरजिनायाव नाराजाय",
+    "examReview": {
+      "title": "टेस्ट रिविउ",
+      "yourScore": "नोंनि स्कर",
+      "scoreSummary": "नों मोदोमबां {{total}} प्रश्ननि गेजेराव {{correct}} प्रश्ननि उत्तर बेसि दिनाय",
+      "notAttempted": "च्यालेन्ज खालामाखै",
+      "noQuizData": "क्विज डाटा मोनाखै",
+      "startNewQuiz": "ह'म पेजनिफ्राय गोदान क्विज सुरु खालाम",
+      "backToHome": "ह'मसिम फिन फै"
+    },
+    "createCourse": {
+      "title": "कोर्स सोरजि",
+      "steps": {
+        "skills": "सिक्लायनाय",
+        "topic": "बुंफुंनाय आरो बाथ्रा",
+        "options": "आप्शनफोर",
+        "generated": "सोरजिनाय कोर्स"
+      },
+      "skills": {
+        "title": "सिक्लायनाय सायख",
+        "addPlaceholder": "सिक्लायनाय दाजाब",
+        "addButton": "दाजाब"
+      },
+      "topic": {
+        "title": "बुंफुंनाय आरो बाथ्रा",
+        "topicPlaceholder": "बुंफुंनाय",
+        "descriptionPlaceholder": "कोर्सनि बाथ्रा"
+      },
+      "options": {
+        "title": "आप्शनफोर",
+        "difficultyPlaceholder": "गोरोंथि सायख",
+        "difficulty": {
+          "basic": "मुंदांखा",
+          "intermediate": "गोजौ मुंदांखा",
+          "advanced": "बांसिन गोजौ"
+        },
+        "durationPlaceholder": "सम",
+        "chaptersPlaceholder": "च्याप्टारफोरनि अनजिमा (1-5)"
+      },
+      "preview": {
+        "description": "बाथ्रा",
+        "skills": "सिक्लायनाय",
+        "level": "लेबल",
+        "duration": "सम",
+        "chapters": "च्याप्टारफोरनि अनजिमा",
+        "outcomes": "कोर्सनि रोखोमसे",
+        "chaptersTitle": "च्याप्टारफोर",
+        "chapterDuration": "सम",
+        "content": "च्याप्टारनि गोसोआव"
+      },
+      "buttons": {
+        "backToCourses": "आंनि कोर्सफोरसिम फिन फै",
+        "back": "फिन फै",
+        "next": "फारागौ",
+        "generate": "सोरजि",
+        "generating": "सोरजिगासिनो दं...",
+        "finish": "खाम खालाम",
+        "finalizing": "आखाइ खालामगासिनो दं..."
+      },
+      "success": {
+        "layoutGenerated": "कोर्स लेआउट गोसोआव सोरजिदों!",
+        "courseCreated": "कोर्स गोसोआव सोरजिदों!",
+        "assignedCreated": "मेंटरनि थाखाय कोर्स सोरजिदों।"
+      },
+      "errors": {
+        "generateFailed": "कोर्स लेआउट सोरजिनायाव नाराजाय",
+        "noChapters": "दाबाय च्याप्टारजों गासैनो कोर्स सोरजि",
+        "chapterFailed": "च्याप्टारनि थाखाय गोसोआव लानायाव नाराजाय: {{chapter}}",
+        "sessionExpired": "सेसन खाम खालामदों एबा नों लगइन खालामाखै। दाबाय फिन लगइन खालाम।",
+        "noCourseId": "कोर्स सोरजिदों, नाथाय कोर्स ID मोनाखै",
+        "createFailed": "कोर्स सोरजिनायाव नाराजाय",
+        "saveFailed": "कोर्स सेभ खालामनायाव नाराजाय। दाबाय फिन च्यालेन्ज खालाम।",
+        "generationFailed": "कोर्स सोरजिनायाव नाराजाय। दाबाय फिन च्यालेन्ज खालाम।",
+        "assignFailed": "मेंटरनि थाखाय कोर्स सोरजिनायाव नाराजाय।",
+        "chapterError": "च्याप्टार \"{{chapter}}\" नि थाखाय गोसोआव सोरजिनायाव नाराजाय"
+      },
+      "warnings": {
+        "chapterSkipped": "च्याप्टार \"{{chapter}}\" नि थाखाय गोसोआव सोरजिनायाव नाराजाय। बे च्याप्टारखौ स्किप खालामदों।"
+      }
+    },
+    "courseDetails": {
+      "loading": "कोर्स डिटेल्स ल'ड जागासिनो दं...",
+      "translating": "गोसोआव अनुबाद खालामगासिनो दं...",
+      "description": "बाथ्रा",
+      "skills": "सिक्लायनाय",
+      "level": "लेबल",
+      "duration": "सम",
+      "outcomesTitle": "कोर्सनि रोखोमसे",
+      "chaptersTitle": "कोर्सनि च्याप्टारफोर",
+      "about": "बाथ्रा",
+      "assessmentTitle": "आखाइ टेस्ट",
+      "finalAssessment": "आखाइ टेस्ट",
+      "bestScore": "गोजौ स्कर",
+      "completed": "खाम खालामदों",
+      "unlocked": "अनलक खालामदों",
+      "locked": "लक खालामदों",
+      "downloadCertificate": "सार्टिफिकेट डाउनल'ड खालाम",
+      "editTitle": "कोर्स एडिट खालाम",
+      "buttons": {
+        "back": "फिन फै",
+        "edit": "एडिट खालाम",
+        "save": "सोलायथिफोर सेभ खालाम",
+        "cancel": "क्यान्सेल खालाम",
+        "addChapter": "च्याप्टार दाजाब"
+      },
+      "errors": {
+        "noToken": "आथिफिकेसन टकेन मोनाखै",
+        "fetchFailed": "कोर्स डाटा लानायाव नाराजाय",
+        "fetchError": "कोर्स डाटा लानायाव नाराजाय:",
+        "updateFailed": "कोर्स स्टेटस अपडेट खालामनायाव नाराजाय",
+        "updateError": "कोर्स स्टेटस अपडेट खालामनायाव नाराजाय:",
+        "translationError": "गोसोआव अनुबाद खालामनायाव नाराजाय:",
+        "assessmentError": "टेस्टफोर लानायाव नाराजाय:",
+        "noAssessments": "बे कोर्सनि थाखाय टेस्ट मोनाखै"
+      },
+      "certificate": {
+        "title": "खाम खालामनायनि सार्टिफिकेट",
+        "certifyText": "बेजों प्रमाणित खालामजादों जे",
+        "completedText": "गोसोआव कोर्सखौ खाम खालामदों",
+        "issuedOn": "जारि खालामनाय तारिख:",
+        "issuedBy": "जारि खालामनाय:"
+      }
+    },
+    "assessment": {
+      "title": "कोर्सनि आखाइ टेस्ट",
+      "subtitle": "कोर्स खाम खालामनायनि सिगां नोंनि गियानखौ टेस्ट खालाम",
+      "loading": "टेस्ट सोरजिगासिनो दं...",
+      "questionLabel": "प्रश्न",
+      "ofQuestions": "नि",
+      "questions": "प्रश्न",
+      "questionsTitle": "प्रश्नफोर",
+      "progress": "आगासिनाय",
+      "buttons": {
+        "previous": "सिगांनि",
+        "next": "फारागौ",
+        "submit": "क्विज सबमिट खालाम"
+      },
+      "errors": {
+        "generateFailed": "कोर्सनि आखाइ टेस्ट सोरजिनायाव नाराजाय:"
+      }
+    },
+    "projects": {
+      "title": "AI प्रजेक्ट रिकमेन्डेसनफोर",
+      "subtitle": "AI जों चलिनाय गोदान प्रजेक्ट आइडियाफोर मोन",
+      "loading": "नोंनि थाखाय रिकमेन्डेसनफोर लानो ल'ड जागासिनो दं...",
+      "featuresTitle": "मख' फीचारफोर",
+      "filter": {
+        "title": "ड'मेन अनसार फिल्टार खालाम",
+        "all": "गासै"
+      },
+      "buttons": {
+        "getRecommendations": "AI प्रजेक्ट रिकमेन्डेसनफोर मोन",
+        "loading": "रिकमेन्डेसनफोर ल'ड जागासिनो दं..."
+      },
+      "empty": {
+        "title": "दानो रिकमेन्डेसन मोनाखै",
+        "message": "नोंनि थाखाय प्रजेक्ट रिकमेन्डेसन मोननो थोंनो बुथुमनाय बटनखौ क्लिक खालाम।"
+      },
+      "errors": {
+        "notLoggedIn": "युजार लगइन खालामाखै",
+        "fetchFailed": "प्रजेक्ट रिकमेन्डेसनफोर लानायाव नाराजाय:"
+      }
+    },
+    "sidebar": {
+      "appName": "एथेनाAI",
+      "guestName": "गेस्ट",
+      "guestInitial": "ग",
+      "guestEmail": "गेस्ट@एग्जाम्पल.कम",
+      "logout": "लग आउट",
+      "aria": {
+        "expand": "साइडबार खुलफाय",
+        "collapse": "साइडबार बन्द खालाम"
+      },
+      "items": {
+        "profile": "प्रफाइल",
+        "courses": "कोर्सफोर",
+        "assessments": "टेस्टफोर",
+        "attendance": "हाजिरा",
+        "video": "भिदिय कन्फारेन्सिं",
+        "projects": "प्रजेक्ट रिकमेन्डेसन",
+        "schedule": "AI टाइमटेबल",
+        "coding": "कोडिं",
+        "challenge": "नांगो चैलेंज खालाम",
+        "exams": "इग्जामफोर",
+        "interviews": "मक इन्टार्भिउ",
+        "internships": "इन्टार्नसिप"
+      }
+    },
+    "notes": {
+      "title": "नोटफोर नुथाय",
+      "description": "गोजाम, बानायनाय डिजिटल नोटफोरजों नोंसारथाइयाव बेरफांखा लाबो।",
+      "button": "नोटफोर नुथाय"
+    },
+    "flashcards": {
+      "title": "फ्लाशकार्डफोर नुथाय",
+      "description": "इन्टारयाक्टिभ, काष्टम-जेनारेटेड फ्लाशकार्डफोरजों नोंसोनायखौ बांहो।",
+      "button": "फ्लाशकार्डफोर नुथाय"
+    }
+  }

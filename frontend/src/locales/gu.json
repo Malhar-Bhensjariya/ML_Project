@@ -1,0 +1,245 @@
+{
+    "Welcome": "સ્વાગત છે",
+    "Discover the power of AI with OdesseyAI": "ઓડિસી એઆઈ સાથે કૃત્રિમ બુદ્ધિની શક્તિ શોધો",
+    "myCourses": {
+      "title": "મારા અભ્યાસક્રમો",
+      "createCourse": "અભ્યાસક્રમ બનાવો",
+      "noCourses": "કોઈ અભ્યાસક્રમ મળ્યો નથી",
+      "startJourney": "નવો અભ્યાસક્રમ બનાવીને તમારી શીખવાની યાત્રા શરૂ કરો!"
+    },
+    "error": {
+      "fetchCourses": "અભ્યાસક્રમો લાવવામાં નિષ્ફળ"
+    },
+    "assignedCourses": {
+      "title": "સોંપેલા અભ્યાસક્રમો",
+      "assignedMessage": "તમને {{count}} અભ્યાસક્રમ સોંપવામાં આવ્યા છે",
+      "noCourses": "કોઈ સોંપેલા અભ્યાસક્રમ નથી",
+      "waitingMessage": "તમારા માર્ગદર્શકે હજુ સુધી કોઈ અભ્યાસક્રમ સોંપ્યો નથી",
+      "completed": "પૂર્ણ",
+      "assignedOn": "{{date}} ના રોજ સોંપવામાં આવ્યું",
+      "startLearning": "શીખવાનું શરૂ કરો"
+    },
+    "courseLevels": {
+      "Basic": "મૂળભૂત",
+      "Intermediate": "મધ્યમ",
+      "Advanced": "અદ્યતન"
+    },
+    "errorFetchingQuestions": "પ્રશ્નો લાવવામાં ભૂલ",
+    "errorUpdatingScore": "સ્કોર અપડેટ કરવામાં ભૂલ",
+    "loadingQuiz": "ક્વિઝ લોડ થાય છે...",
+    "challengeQuiz": "આ ક્વિઝ સાથે તમારી જાતને પડકારો!",
+    "quizDescription": "તમારું જ્ઞાન ચકાસો અને જુઓ તમે કેટલું સારું કરી શકો છો!",
+    "previous": "પાછલું",
+    "next": "આગળ",
+    "submitQuiz": "ક્વિઝ સબમિટ કરો",
+    "generateTest": "ટેસ્ટ જનરેટ કરો",
+    "createPersonalizedAssessment": "વ્યક્તિગતકૃત મૂલ્યાંકન બનાવો",
+    "enterTopicPlaceholder": "એક વિષય દાખલ કરો (દા.ત., React, મશીન લર્નિંગ)",
+    "generateNewAssessment": "નવું મૂલ્યાંકન જનરેટ કરો",
+    "yourAssessments": "તમારા મૂલ્યાંકનો",
+    "trackLearningProgress": "તમારી શીખવાની પ્રગતિ ટ્રેક કરો",
+    "totalTests": "કુલ ટેસ્ટ્સ",
+    "noAssessmentsYet": "હજુ સુધી કોઈ મૂલ્યાંકન નથી",
+    "startLearningJourney": "એક ટેસ્ટ જનરેટ કરીને તમારી શીખવાની યાત્રા શરૂ કરો!",
+    "score": "સ્કોર",
+    "reattemptTest": "ટેસ્ટ ફરીથી આપો",
+    "errorFetchingAssessments": "મૂલ્યાંકનો લાવવામાં ભૂલ",
+    "errorGeneratingAssessment": "મૂલ્યાંકન જનરેટ કરવામાં ભૂલ",
+    "examReview": {
+      "title": "પરીક્ષા સમીક્ષા",
+      "yourScore": "તમારો સ્કોર",
+      "scoreSummary": "તમે કુલ {{total}} પ્રશ્નોમાંથી {{correct}} પ્રશ્નોના સાચા જવાબ આપ્યા છે",
+      "notAttempted": "પ્રયાસ કર્યો નથી",
+      "noQuizData": "કોઈ ક્વિઝ ડેટા ઉપલબ્ધ નથી",
+      "startNewQuiz": "કૃપા કરીને હોમ પેજ પરથી નવી ક્વિઝ શરૂ કરો",
+      "backToHome": "હોમ પર પાછા જાઓ"
+    },
+    "createCourse": {
+      "title": "અભ્યાસક્રમ બનાવો",
+      "steps": {
+        "skills": "કુશળતા",
+        "topic": "વિષય અને વર્ણન",
+        "options": "વિકલ્પો",
+        "generated": "જનરેટેડ અભ્યાસક્રમ"
+      },
+      "skills": {
+        "title": "કુશળતા પસંદ કરો",
+        "addPlaceholder": "કુશળતા ઉમેરો",
+        "addButton": "ઉમેરો"
+      },
+      "topic": {
+        "title": "વિષય અને વર્ણન",
+        "topicPlaceholder": "વિષય",
+        "descriptionPlaceholder": "અભ્યાસક્રમ વર્ણન"
+      },
+      "options": {
+        "title": "વિકલ્પો",
+        "difficultyPlaceholder": "ગુણવત્તા પસંદ કરો",
+        "difficulty": {
+          "basic": "મૂળભૂત",
+          "intermediate": "મધ્યમ",
+          "advanced": "અદ્યતન"
+        },
+        "durationPlaceholder": "અવધિ",
+        "chaptersPlaceholder": "અધ્યાયોની સંખ્યા (1-5)"
+      },
+      "preview": {
+        "description": "વર્ણન",
+        "skills": "કુશળતા",
+        "level": "સ્તર",
+        "duration": "અવધિ",
+        "chapters": "અધ્યાયોની સંખ્યા",
+        "outcomes": "અભ્યાસક્રમ પરિણામો",
+        "chaptersTitle": "અધ્યાયો",
+        "chapterDuration": "અવધિ",
+        "content": "અધ્યાય સામગ્રી"
+      },
+      "buttons": {
+        "backToCourses": "મારા અભ્યાસક્રમો પર પાછા જાઓ",
+        "back": "પાછા",
+        "next": "આગળ",
+        "generate": "જનરેટ કરો",
+        "generating": "જનરેટ થાય છે...",
+        "finish": "સમાપ્ત કરો",
+        "finalizing": "અંતિમ રૂપ આપી રહ્યા છીએ..."
+      },
+      "success": {
+        "layoutGenerated": "અભ્યાસક્રમ લેઆઉટ સફળતાપૂર્વક જનરેટ થયું!",
+        "courseCreated": "અભ્યાસક્રમ સફળતાપૂર્વક બનાવ્યો!",
+        "assignedCreated": "માર્ગદર્શક માટે સોંપેલો અભ્યાસક્રમ બનાવ્યો."
+      },
+      "errors": {
+        "generateFailed": "અભ્યાસક્રમ લેઆઉટ જનરેટ કરવામાં નિષ્ફળ",
+        "noChapters": "કૃપા કરીને પહેલા અધ્યાયો સાથે અભ્યાસક્રમ જનરેટ કરો",
+        "chapterFailed": "અધ્યાય માટે સામગ્રી લાવવામાં નિષ્ફળ: {{chapter}}",
+        "sessionExpired": "સત્ર સમાપ્ત થયું અથવા તમે લોગઇન કર્યું નથી. કૃપા કરીને ફરીથી લોગઇન કરો.",
+        "noCourseId": "અભ્યાસક્રમ બનાવ્યો, પરંતુ અભ્યાસક્રમ ID મેળવી શકાયો નથી",
+        "createFailed": "અભ્યાસક્રમ બનાવવામાં ભૂલ",
+        "saveFailed": "અભ્યાસક્રમ સેવ કરવામાં નિષ્ફળ. કૃપા કરીને ફરીથી પ્રયાસ કરો.",
+        "generationFailed": "અભ્યાસક્રમ જનરેટ કરવામાં ભૂલ. કૃપા કરીને ફરીથી પ્રયાસ કરો.",
+        "assignFailed": "માર્ગદર્શક માટે સોંપેલો અભ્યાસક્રમ બનાવવામાં નિષ્ફળ.",
+        "chapterError": "અધ્યાય \"{{chapter}}\" માટે સામગ્રી જનરેટ કરવામાં ભૂલ"
+      },
+      "warnings": {
+        "chapterSkipped": "અધ્યાય \"{{chapter}}\" માટે સામગ્રી જનરેટ કરવામાં નિષ્ફળ. આ અધ્યાય છોડી દેવામાં આવ્યો છે."
+      }
+    },
+    "courseDetails": {
+      "loading": "અભ્યાસક્રમ વિગતો લોડ થાય છે...",
+      "translating": "સામગ્રીનું ભાષાંતર થાય છે...",
+      "description": "વર્ણન",
+      "skills": "કુશળતા",
+      "level": "સ્તર",
+      "duration": "અવધિ",
+      "outcomesTitle": "અભ્યાસક્રમ પરિણામો",
+      "chaptersTitle": "અભ્યાસક્રમ અધ્યાયો",
+      "about": "વિશે",
+      "assessmentTitle": "અંતિમ મૂલ્યાંકન",
+      "finalAssessment": "અંતિમ મૂલ્યાંકન",
+      "bestScore": "શ્રેષ્ઠ સ્કોર",
+      "completed": "પૂર્ણ",
+      "unlocked": "અનલૉક કરેલ",
+      "locked": "લૉક કરેલ",
+      "downloadCertificate": "પ્રમાણપત્ર ડાઉનલોડ કરો",
+      "editTitle": "અભ્યાસક્રમ સંપાદિત કરો",
+      "buttons": {
+        "back": "પાછા",
+        "edit": "સંપાદિત કરો",
+        "save": "ફેરફારો સાચવો",
+        "cancel": "રદ કરો",
+        "addChapter": "અધ્યાય ઉમેરો"
+      },
+      "errors": {
+        "noToken": "કોઈ પ્રમાણીકરણ ટોકન મળ્યું નથી",
+        "fetchFailed": "અભ્યાસક્રમ ડેટા લાવવામાં નિષ્ફળ",
+        "fetchError": "અભ્યાસક્રમ ડેટા લાવવામાં ભૂલ:",
+        "updateFailed": "અભ્યાસક્રમ સ્થિતિ અપડેટ કરવામાં નિષ્ફળ",
+        "updateError": "અભ્યાસક્રમ સ્થિતિ અપડેટ કરવામાં ભૂલ:",
+        "translationError": "સામગ્રીનું ભાષાંતર કરવામાં ભૂલ:",
+        "assessmentError": "મૂલ્યાંકનો લાવવામાં ભૂલ:",
+        "noAssessments": "આ અભ્યાસક્રમ માટે કોઈ મૂલ્યાંકનો મળ્યા નથી"
+      },
+      "certificate": {
+        "title": "પૂર્ણતાનું પ્રમાણપત્ર",
+        "certifyText": "આ દ્વારા પ્રમાણિત કરવામાં આવે છે કે",
+        "completedText": "અભ્યાસક્રમ સફળતાપૂર્વક પૂર્ણ કર્યો છે",
+        "issuedOn": "જારી કરવાની તારીખ:",
+        "issuedBy": "જારી કરનાર:"
+      }
+    },
+    "assessment": {
+      "title": "અભ્યાસક્રમ અંતિમ મૂલ્યાંકન",
+      "subtitle": "અભ્યાસક્રમ પૂર્ણ કરતા પહેલાં તમારું જ્ઞાન ચકાસો",
+      "loading": "મૂલ્યાંકન જનરેટ થાય છે...",
+      "questionLabel": "પ્રશ્ન",
+      "ofQuestions": "ના",
+      "questions": "પ્રશ્નો",
+      "questionsTitle": "પ્રશ્નો",
+      "progress": "પ્રગતિ",
+      "buttons": {
+        "previous": "પાછલું",
+        "next": "આગળ",
+        "submit": "ક્વિઝ સબમિટ કરો"
+      },
+      "errors": {
+        "generateFailed": "અભ્યાસક્રમ અંતિમ મૂલ્યાંકન જનરેટ કરવામાં ભૂલ:"
+      }
+    },
+    "projects": {
+      "title": "AI પ્રોજેક્ટ સૂચનો",
+      "subtitle": "કૃત્રિમ બુદ્ધિ દ્વારા સંચાલિત નવીન પ્રોજેક્ટ વિચારો શોધો",
+      "loading": "વ્યક્તિગતકૃત સૂચનો લાવી રહ્યા છીએ...",
+      "featuresTitle": "મુખ્ય લક્ષણો",
+      "filter": {
+        "title": "ડોમેન દ્વારા ફિલ્ટર કરો",
+        "all": "બધા"
+      },
+      "buttons": {
+        "getRecommendations": "AI પ્રોજેક્ટ સૂચનો મેળવો",
+        "loading": "સૂચનો લોડ થાય છે..."
+      },
+      "empty": {
+        "title": "હજુ સુધી કોઈ સૂચનો નથી",
+        "message": "વ્યક્તિગતકૃત AI પ્રોજેક્ટ સૂચનો મેળવવા માટે ઉપરના બટન પર ક્લિક કરો."
+      },
+      "errors": {
+        "notLoggedIn": "વપરાશકર્તા લોગઇન કર્યું નથી",
+        "fetchFailed": "પ્રોજેક્ટ સૂચનો લાવવામાં ભૂલ:"
+      }
+    },
+    "sidebar": {
+      "appName": "એથેનાAI",
+      "guestName": "મહેમાન",
+      "guestInitial": "મ",
+      "guestEmail": "મહેમાન@ઉદાહરણ.કોમ",
+      "logout": "લોગ આઉટ",
+      "aria": {
+        "expand": "સાઇડબાર વિસ્તૃત કરો",
+        "collapse": "સાઇડબાર સંકુચિત કરો"
+      },
+      "items": {
+        "profile": "પ્રોફાઇલ",
+        "courses": "અભ્યાસક્રમો",
+        "assessments": "મૂલ્યાંકનો",
+        "attendance": "હાજરી",
+        "video": "વિડિયો કોન્ફરન્સિંગ",
+        "projects": "પ્રોજેક્ટ સૂચનો",
+        "schedule": "AI શેડ્યૂલ",
+        "coding": "કોડિંગ",
+        "challenge": "પોતાને ચેલેન્જ કરો",
+        "exams": "પરીક્ષાઓ",
+        "interviews": "મોક ઇન્ટરવ્યુ",
+        "internships": "ઇન્ટર્નશિપ"
+      }
+    },
+      "notes": {
+      "title": "નોંધ જુઓ",
+      "description": "વ્યાપક, સ્ટ્રક્ચર્ડ ડિજિટલ નોંધો સાથે તમારા શીખવાના અનુભવને રૂપાંતરિત કરો.",
+      "button": "નોંધ જુઓ"
+    },
+    "flashcards": {
+      "title": "ફ્લેશકાર્ડ જુઓ",
+      "description": "ઇન્ટરેક્ટિવ, કસ્ટમ-જનરેટેડ ફ્લેશકાર્ડ સાથે તમારી યાદશક્તિ વધારો.",
+      "button": "ફ્લેશકાર્ડ જુઓ"
+    }
+  }

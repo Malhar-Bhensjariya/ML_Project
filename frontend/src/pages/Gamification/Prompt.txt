@@ -1,0 +1,20 @@
+Generate 27 MCQs on 'React Native' in JSON format, categorized into three difficulty levels: Easy, Medium, and Hard. Each level has 3 waves, each wave contains 3 questions.
+{
+"React Native Tower": {
+"Easy": [
+{
+"wave": 1,
+"questions": [
+{
+"question": "<question_text>",
+"options": ["<option_1>", "<option_2>", "<option_3>", "<option_4>"],
+"correct_answer": "<correct_option>"
+}
+]
+}
+],
+"Medium": [...],
+"Hard": [...]
+}
+}
+Ensure increasing difficulty per level and engaging, gamified questions. Output only valid JSON.

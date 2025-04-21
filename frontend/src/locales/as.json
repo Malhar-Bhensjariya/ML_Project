@@ -1,0 +1,245 @@
+{
+    "Welcome": "স্বাগতম",
+    "Discover the power of AI with OdesseyAI": "অ'ডিচি আইৰ সহায়ত কৃত্ৰিম বুদ্ধিমত্তাৰ শক্তি আৱিষ্কাৰ কৰক",
+    "myCourses": {
+      "title": "মোৰ কোৰ্ছসমূহ",
+      "createCourse": "কোৰ্ছ সৃষ্টি কৰক",
+      "noCourses": "কোনো কোৰ্ছ পোৱা নগ'ল",
+      "startJourney": "এটা নতুন কোৰ্ছ সৃষ্টি কৰি আপোনাৰ শিকণৰ যাত্ৰা আৰম্ভ কৰক!"
+    },
+    "error": {
+      "fetchCourses": "কোৰ্ছসমূহ আনিবলৈ ব্যৰ্থ"
+    },
+    "assignedCourses": {
+      "title": "দায়িত্ব দিয়া কোৰ্ছসমূহ",
+      "assignedMessage": "আপোনাক {{count}}টা কোৰ্ছ দায়িত্ব দিয়া হৈছে",
+      "noCourses": "দায়িত্ব দিয়া কোনো কোৰ্ছ নাই",
+      "waitingMessage": "আপোনাৰ মেণ্টৰে এতিয়ালৈকে কোনো কোৰ্ছ দায়িত্ব দিয়া নাই।",
+      "completed": "সম্পূৰ্ণ",
+      "assignedOn": "{{date}} তাৰিখে দায়িত্ব দিয়া হৈছে",
+      "startLearning": "শিকিবলৈ আৰম্ভ কৰক"
+    },
+    "courseLevels": {
+      "Basic": "প্ৰাথমিক",
+      "Intermediate": "মধ্যৱৰ্তী",
+      "Advanced": "অগ্ৰগণ্য"
+    },
+    "errorFetchingQuestions": "প্ৰশ্নসমূহ আনিবলৈ ত্ৰুটী",
+    "errorUpdatingScore": "স্কোৰ আপডেট কৰোঁতে ত্ৰুটী",
+    "loadingQuiz": "কুইজ ল'ড হৈ আছে...",
+    "challengeQuiz": "এই কুইজৰ সৈতে নিজকে পৰীক্ষা কৰক!",
+    "quizDescription": "আপোনাৰ জ্ঞান পৰীক্ষা কৰক আৰু কিমান ভাল কৰিব পাৰে চাওক!",
+    "previous": "পূৰ্বৱৰ্তী",
+    "next": "পৰৱৰ্তী",
+    "submitQuiz": "কুইজ জমা দিয়ক",
+    "generateTest": "পৰীক্ষা সৃষ্টি কৰক",
+    "createPersonalizedAssessment": "এটা ব্যক্তিগতকৃত মূল্যায়ন সৃষ্টি কৰক",
+    "enterTopicPlaceholder": "এটা বিষয় লিখক (যেনে, ৰিয়েক্ট, মেচিন লাৰ্নিং)",
+    "generateNewAssessment": "নতুন মূল্যায়ন সৃষ্টি কৰক",
+    "yourAssessments": "আপোনাৰ মূল্যায়নসমূহ",
+    "trackLearningProgress": "আপোনাৰ শিকণৰ অগ্ৰগতি ট্ৰেক কৰক",
+    "totalTests": "মুঠ পৰীক্ষা",
+    "noAssessmentsYet": "এতিয়ালৈকে কোনো মূল্যায়ন নাই",
+    "startLearningJourney": "এটা পৰীক্ষা সৃষ্টি কৰি আপোনাৰ শিকণৰ যাত্ৰা আৰম্ভ কৰক!",
+    "score": "স্কোৰ",
+    "reattemptTest": "পৰীক্ষা পুনৰ চেষ্টা কৰক",
+    "errorFetchingAssessments": "মূল্যায়নসমূহ আনিবলৈ ত্ৰুটী",
+    "errorGeneratingAssessment": "মূল্যায়ন সৃষ্টি কৰোঁতে ত্ৰুটী",
+    "examReview": {
+      "title": "পৰীক্ষা পৰ্যালোচনা",
+      "yourScore": "আপোনাৰ স্কোৰ",
+      "scoreSummary": "আপুনি মুঠ {{total}}টা প্ৰশ্নৰ ভিতৰত {{correct}}টাৰ সঠিক উত্তৰ দিছে",
+      "notAttempted": "চেষ্টা কৰা হোৱা নাই",
+      "noQuizData": "কোনো কুইজ ডাটা উপলব্ধ নাই",
+      "startNewQuiz": "অনুগ্ৰহ কৰি হোম পেজৰ পৰা এটা নতুন কুইজ আৰম্ভ কৰক",
+      "backToHome": "হোমলৈ ঘূৰি যাওক"
+    },
+    "createCourse": {
+      "title": "কোৰ্ছ সৃষ্টি কৰক",
+      "steps": {
+        "skills": "দক্ষতা",
+        "topic": "বিষয় আৰু বৰ্ণনা",
+        "options": "বিকল্পসমূহ",
+        "generated": "সৃষ্টি হোৱা কোৰ্ছ"
+      },
+      "skills": {
+        "title": "দক্ষতা বাছনি কৰক",
+        "addPlaceholder": "দক্ষতা যোগ কৰক",
+        "addButton": "যোগ কৰক"
+      },
+      "topic": {
+        "title": "বিষয় আৰু বৰ্ণনা",
+        "topicPlaceholder": "বিষয়",
+        "descriptionPlaceholder": "কোৰ্ছৰ বৰ্ণনা"
+      },
+      "options": {
+        "title": "বিকল্পসমূহ",
+        "difficultyPlaceholder": "অসুবিধা বাছনি কৰক",
+        "difficulty": {
+          "basic": "প্ৰাথমিক",
+          "intermediate": "মধ্যৱৰ্তী",
+          "advanced": "অগ্ৰগণ্য"
+        },
+        "durationPlaceholder": "অৱধি",
+        "chaptersPlaceholder": "অধ্যায়ৰ সংখ্যা (১-৫)"
+      },
+      "preview": {
+        "description": "বৰ্ণনা",
+        "skills": "দক্ষতা",
+        "level": "স্তৰ",
+        "duration": "অৱধি",
+        "chapters": "অধ্যায়ৰ সংখ্যা",
+        "outcomes": "কোৰ্ছৰ ফলাফল",
+        "chaptersTitle": "অধ্যায়সমূহ",
+        "chapterDuration": "অৱধি",
+        "content": "অধ্যায়ৰ বিষয়বস্তু"
+      },
+      "buttons": {
+        "backToCourses": "মোৰ কোৰ্ছলৈ ঘূৰি যাওক",
+        "back": "পিছলৈ",
+        "next": "পৰৱৰ্তী",
+        "generate": "সৃষ্টি কৰক",
+        "generating": "সৃষ্টি কৰি থকা হৈছে...",
+        "finish": "সমাপ্ত কৰক",
+        "finalizing": "চূড়ান্ত কৰি থকা হৈছে..."
+      },
+      "success": {
+        "layoutGenerated": "কোৰ্ছৰ লে'আউট সফলভাৱে সৃষ্টি কৰা হ'ল!",
+        "courseCreated": "কোৰ্ছ সফলভাৱে সৃষ্টি কৰা হ'ল!",
+        "assignedCreated": "মেণ্টৰৰ বাবে দায়িত্ব দিয়া কোৰ্ছ সৃষ্টি কৰা হ'ল।"
+      },
+      "errors": {
+        "generateFailed": "কোৰ্ছ লে'আউট সৃষ্টি কৰোঁতে ব্যৰ্থ",
+        "noChapters": "অনুগ্ৰহ কৰি প্ৰথমে অধ্যায়ৰ সৈতে এটা কোৰ্ছ সৃষ্টি কৰক",
+        "chapterFailed": "অধ্যায়ৰ বাবে বিষয়বস্তু আনিবলৈ ব্যৰ্থ: {{chapter}}",
+        "sessionExpired": "ছেচন শেষ হৈছে বা আপুনি লগিন কৰা নাই। অনুগ্ৰহ কৰি পুনৰ লগিন কৰক।",
+        "noCourseId": "কোৰ্ছ সৃষ্টি কৰা হৈছে, কিন্তু কোৰ্ছ ID প্ৰাপ্ত কৰিব পৰা নগ'ল",
+        "createFailed": "কোৰ্ছ সৃষ্টি কৰোঁতে ত্ৰুটী",
+        "saveFailed": "কোৰ্ছ সংৰক্ষণ কৰোঁতে ব্যৰ্থ। অনুগ্ৰহ কৰি পুনৰ চেষ্টা কৰক।",
+        "generationFailed": "কোৰ্ছ সৃষ্টি কৰোঁতে ত্ৰুটী। অনুগ্ৰহ কৰি পুনৰ চেষ্টা কৰক।",
+        "assignFailed": "মেণ্টৰৰ বাবে দায়িত্ব দিয়া কোৰ্ছ সৃষ্টি কৰোঁতে ব্যৰ্থ।",
+        "chapterError": "অধ্যায় \"{{chapter}}\"ৰ বাবে বিষয়বস্তু সৃষ্টি কৰোঁতে ত্ৰুটী"
+      },
+      "warnings": {
+        "chapterSkipped": "অধ্যায় \"{{chapter}}\"ৰ বাবে বিষয়বস্তু সৃষ্টি কৰোঁতে ব্যৰ্থ। এই অধ্যায়টো এৰি দিয়া হৈছে।"
+      }
+    },
+    "courseDetails": {
+      "loading": "কোৰ্ছৰ বিৱৰণ ল'ড হৈ আছে...",
+      "translating": "বিষয়বস্তু অনুবাদ কৰি থকা হৈছে...",
+      "description": "বৰ্ণনা",
+      "skills": "দক্ষতা",
+      "level": "স্তৰ",
+      "duration": "অৱধি",
+      "outcomesTitle": "কোৰ্ছৰ ফলাফল",
+      "chaptersTitle": "কোৰ্ছৰ অধ্যায়সমূহ",
+      "about": "বিষয়ে",
+      "assessmentTitle": "চূড়ান্ত মূল্যায়ন",
+      "finalAssessment": "চূড়ান্ত মূল্যায়ন",
+      "bestScore": "শ্ৰেষ্ঠ স্কোৰ",
+      "completed": "সম্পূৰ্ণ",
+      "unlocked": "আনলক কৰা হৈছে",
+      "locked": "লক কৰা হৈছে",
+      "downloadCertificate": "প্ৰমাণপত্ৰ ডাউনলোড কৰক",
+      "editTitle": "কোৰ্ছ সম্পাদনা কৰক",
+      "buttons": {
+        "back": "পিছলৈ",
+        "edit": "সম্পাদনা কৰক",
+        "save": "পৰিবৰ্তনসমূহ সংৰক্ষণ কৰক",
+        "cancel": "বাতিল কৰক",
+        "addChapter": "অধ্যায় যোগ কৰক"
+      },
+      "errors": {
+        "noToken": "কোনো প্ৰমাণীকৰণ টোকেন পোৱা নগ'ল",
+        "fetchFailed": "কোৰ্ছ ডাটা আনিবলৈ ব্যৰ্থ",
+        "fetchError": "কোৰ্ছ ডাটা আনিবলৈ ত্ৰুটী:",
+        "updateFailed": "কোৰ্ছৰ স্থিতি আপডেট কৰোঁতে ব্যৰ্থ",
+        "updateError": "কোৰ্ছৰ স্থিতি আপডেট কৰোঁতে ত্ৰুটী:",
+        "translationError": "বিষয়বস্তু অনুবাদ কৰোঁতে ত্ৰুটী:",
+        "assessmentError": "মূল্যায়ন আনিবলৈ ত্ৰুটী:",
+        "noAssessments": "এই কোৰ্ছৰ বাবে কোনো মূল্যায়ন পোৱা নগ'ল"
+      },
+      "certificate": {
+        "title": "সমাপ্তিৰ প্ৰমাণপত্ৰ",
+        "certifyText": "এইদ্বাৰা প্ৰমাণিত কৰা হৈছে যে",
+        "completedText": "সফলভাৱে কোৰ্ছটো সম্পূৰ্ণ কৰিছে",
+        "issuedOn": "জাৰি কৰা তাৰিখ:",
+        "issuedBy": "জাৰি কৰিছে:"
+      }
+    },
+    "assessment": {
+      "title": "কোৰ্ছৰ শেষ মূল্যায়ন",
+      "subtitle": "কোৰ্ছ সম্পূৰ্ণ কৰাৰ আগতে আপোনাৰ জ্ঞান পৰীক্ষা কৰক",
+      "loading": "মূল্যায়ন সৃষ্টি কৰি থকা হৈছে...",
+      "questionLabel": "প্ৰশ্ন",
+      "ofQuestions": "ৰ",
+      "questions": "টা প্ৰশ্ন",
+      "questionsTitle": "প্ৰশ্নসমূহ",
+      "progress": "অগ্ৰগতি",
+      "buttons": {
+        "previous": "পূৰ্বৱৰ্তী",
+        "next": "পৰৱৰ্তী",
+        "submit": "কুইজ জমা দিয়ক"
+      },
+      "errors": {
+        "generateFailed": "কোৰ্ছৰ শেষ মূল্যায়ন সৃষ্টি কৰোঁতে ত্ৰুটী:"
+      }
+    },
+    "projects": {
+      "title": "এ আই প্ৰজেক্টৰ পৰামৰ্শসমূহ",
+      "subtitle": "কৃত্ৰিম বুদ্ধিমত্তাৰ দ্বাৰা চালিত অভিনৱ প্ৰজেক্টৰ ধাৰণা আৱিষ্কাৰ কৰক",
+      "loading": "ব্যক্তিগতকৃত পৰামৰ্শসমূহ আনিবলৈ ল'ড হৈ আছে...",
+      "featuresTitle": "মুখ্য বৈশিষ্ট্যসমূহ",
+      "filter": {
+        "title": "ড'মেইন অনুসৰি ফিল্টাৰ কৰক",
+        "all": "সকলো"
+      },
+      "buttons": {
+        "getRecommendations": "এ আই প্ৰজেক্টৰ পৰামৰ্শসমূহ প্ৰাপ্ত কৰক",
+        "loading": "পৰামৰ্শসমূহ ল'ড হৈ আছে..."
+      },
+      "empty": {
+        "title": "এতিয়ালৈকে কোনো পৰামৰ্শ নাই",
+        "message": "ব্যক্তিগতকৃত এ আই প্ৰজেক্টৰ পৰামৰ্শসমূহ প্ৰাপ্ত কৰিবলৈ ওপৰৰ বুটামটো ক্লিক কৰক।"
+      },
+      "errors": {
+        "notLoggedIn": "ব্যৱহাৰকাৰী লগিন কৰা নাই",
+        "fetchFailed": "প্ৰজেক্টৰ পৰামৰ্শসমূহ আনিবলৈ ত্ৰুটী:"
+      }
+    },
+    "sidebar": {
+      "appName": "এথেনাAI",
+      "guestName": "অতিথি",
+      "guestInitial": "অ",
+      "guestEmail": "অতিথি@উদাহৰণ.কম",
+      "logout": "লগ আউট",
+      "aria": {
+        "expand": "চাইডবাৰ সম্প্ৰসাৰণ কৰক",
+        "collapse": "চাইডবাৰ সংকোচন কৰক"
+      },
+      "items": {
+        "profile": "প্ৰ'ফাইল",
+        "courses": "কোৰ্ছসমূহ",
+        "assessments": "মূল্যায়নসমূহ",
+        "attendance": "হাজিৰা",
+        "video": "ভিডিঅ' কনফাৰেন্সিং",
+        "projects": "প্ৰজেক্টৰ পৰামৰ্শসমূহ",
+        "schedule": "এ আই সময়সূচী",
+        "coding": "ক'ডিং",
+        "challenge": "নিজক চ্যালেঞ্জ কৰক",
+        "exams": "পৰীক্ষাসমূহ",
+        "interviews": "মক সাক্ষাৎকাৰ",
+        "internships": "ইণ্টাৰ্নশ্বিপ"
+      }
+    },
+    "notes": {
+      "title": "নোট চাওক",
+      "description": "বিস্তৃত, সংৰচিত ডিজিটেল নোটৰে আপোনাৰ শিকাৰ অভিজ্ঞতা পৰিবৰ্তন কৰক।",
+      "button": "নোট চাওক"
+    },
+    "flashcards": {
+      "title": "ফ্লাশকাৰ্ড চাওক",
+      "description": "ইণ্টাৰেক্টিভ, কাষ্টম-জেনেৰেটেড ফ্লাশকাৰ্ডৰে আপোনাৰ স্মৃতি শক্তি বৃদ্ধি কৰক।",
+      "button": "ফ্লাশকাৰ্ড চাওক"
+    }
+  }

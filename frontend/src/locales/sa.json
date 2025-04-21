@@ -1,0 +1,245 @@
+{
+    "Welcome": "स्वागतम्",
+    "Discover the power of AI with OdesseyAI": "ओडेसीAI सह AI शक्तिमनुभवतु",
+    "myCourses": {
+        "title": "मम पाठ्यक्रमाः",
+        "createCourse": "पाठ्यक्रमं सृजतु",
+        "noCourses": "न कोऽपि पाठ्यक्रमः प्राप्तः",
+        "startJourney": "नूतनं पाठ्यक्रमं सृज्य स्वाध्याययात्रां प्रारभताम्!"
+    },
+    "error": {
+        "fetchCourses": "पाठ्यक्रमानाम् आनयने असफलम्"
+    },
+    "assignedCourses": {
+        "title": "नियोजिताः पाठ्यक्रमाः",
+        "assignedMessage": "{{count}} पाठ्यक्रम{{count !== 1 ? 'ाः' : 'ः'}} भवते नियोजिताः",
+        "noCourses": "न कोऽपि नियोजितः पाठ्यक्रमः",
+        "waitingMessage": "भवतः मार्गदर्शकः अद्यापि भवते न कमपि पाठ्यक्रमं नियोजितवान्।",
+        "completed": "सम्पूर्णम्",
+        "assignedOn": "{{date}} दिनाङ्के नियोजितः",
+        "startLearning": "अधिगमनं प्रारभताम्"
+    },
+    "courseLevels": {
+        "Basic": "प्राथमिकम्",
+        "Intermediate": "मध्यमम्",
+        "Advanced": "उन्नतम्"
+    },
+    "errorFetchingQuestions": "प्रश्नानाम् आनयने दोषः",
+    "errorUpdatingScore": "स्कोर् अद्यतने दोषः",
+    "loadingQuiz": "प्रश्नोत्तरी लोड् भवति...",
+    "challengeQuiz": "अनेन प्रश्नोत्तरीन स्वयम् आह्वयताम्!",
+    "quizDescription": "स्वज्ञानं परीक्ष्य किं यथावत् कृतमिति पश्यतु!",
+    "previous": "पूर्वम्",
+    "next": "अग्रिमम्",
+    "submitQuiz": "प्रश्नोत्तरीं प्रेषयतु",
+    "generateTest": "परीक्षां सृजतु",
+    "createPersonalizedAssessment": "वैयक्तिकं मूल्याङ्कनं सृजतु",
+    "enterTopicPlaceholder": "विषयं प्रविशतु (यथा React, Machine Learning)",
+    "generateNewAssessment": "नूतनं मूल्याङ्कनं सृजतु",
+    "yourAssessments": "भवतः मूल्याङ्कनानि",
+    "trackLearningProgress": "अधिगमप्रगतिं अनुसरतु",
+    "totalTests": "कुलपरीक्षाः",
+    "noAssessmentsYet": "न किमपि मूल्याङ्कनम् अद्यावधौ",
+    "startLearningJourney": "परीक्षां सृज्य स्वाध्याययात्रां प्रारभताम्!",
+    "score": "स्कोर्",
+    "reattemptTest": "परीक्षां पुनः प्रयतताम्",
+    "errorFetchingAssessments": "मूल्याङ्कनानाम् आनयने दोषः",
+    "errorGeneratingAssessment": "मूल्याङ्कनसृष्टौ दोषः",
+    "examReview": {
+        "title": "परीक्षापरिशीलनम्",
+        "yourScore": "भवतः स्कोर्",
+        "scoreSummary": "भवान् {{total}} मध्ये {{correct}} प्रश्नानां सम्यक् उत्तरं दत्तवान्",
+        "notAttempted": "न प्रयत्नं कृतम्",
+        "noQuizData": "न कोऽपि प्रश्नोत्तरीडाटा उपलब्धः",
+        "startNewQuiz": "कृपया मुख्यपृष्ठतः नूतनां प्रश्नोत्तरीं प्रारभताम्",
+        "backToHome": "मुख्यपृष्ठं प्रति गच्छतु"
+    },
+    "createCourse": {
+        "title": "पाठ्यक्रमं सृजतु",
+        "steps": {
+            "skills": "कौशलानि",
+            "topic": "विषयः विवरणं च",
+            "options": "विकल्पाः",
+            "generated": "सृष्टः पाठ्यक्रमः"
+        },
+        "skills": {
+            "title": "कौशलानि चिनुत",
+            "addPlaceholder": "कौशलं योजयतु",
+            "addButton": "कौशलं योजयतु"
+        },
+        "topic": {
+            "title": "विषयः विवरणं च",
+            "topicPlaceholder": "विषयः",
+            "descriptionPlaceholder": "पाठ्यक्रमविवरणम्"
+        },
+        "options": {
+            "title": "विकल्पाः",
+            "difficultyPlaceholder": "कठिनतां चिनुत",
+            "difficulty": {
+                "basic": "प्राथमिकम्",
+                "intermediate": "मध्यमम्",
+                "advanced": "उन्नतम्"
+            },
+            "durationPlaceholder": "अवधिः",
+            "chaptersPlaceholder": "अध्यायानां संख्या (1-5)"
+        },
+        "preview": {
+            "description": "विवरणम्",
+            "skills": "कौशलानि",
+            "level": "स्तरः",
+            "duration": "अवधिः",
+            "chapters": "अध्यायानां संख्या",
+            "outcomes": "पाठ्यक्रमफलानि",
+            "chaptersTitle": "अध्यायाः",
+            "chapterDuration": "अवधिः",
+            "content": "अध्यायसामग्री"
+        },
+        "buttons": {
+            "backToCourses": "मम पाठ्यक्रमेषु पुनरागच्छतु",
+            "back": "पृष्ठे",
+            "next": "अग्रे",
+            "generate": "सृजतु",
+            "generating": "सृज्यते...",
+            "finish": "समापयतु",
+            "finalizing": "अन्तिमरूपं दीयते..."
+        },
+        "success": {
+            "layoutGenerated": "पाठ्यक्रमरूपरेखा सफलतया निर्मिता!",
+            "courseCreated": "पाठ्यक्रमः सफलतया निर्मितः!",
+            "assignedCreated": "मार्गदर्शकाय नियोजितः पाठ्यक्रमः निर्मितः।"
+        },
+        "errors": {
+            "generateFailed": "पाठ्यक्रमरूपरेखा निर्माणे असफलम्",
+            "noChapters": "कृपया प्रथमम् अध्यायैः सह पाठ्यक्रमं सृजतु",
+            "chapterFailed": "अध्यायाय सामग्री आने असफलम्: {{chapter}}",
+            "sessionExpired": "सत्रं समाप्तम् अथवा भवान् लॉगिन् न कृतवान्। कृपया पुनः लॉगिन् करोतु।",
+            "noCourseId": "पाठ्यक्रमः निर्मितः, परं पाठ्यक्रमID प्राप्तुम् अशक्यम्",
+            "createFailed": "पाठ्यक्रमनिर्माणे दोषः",
+            "saveFailed": "पाठ्यक्रमं सुरक्षितुम् असफलम्। कृपया पुनः प्रयतताम्।",
+            "generationFailed": "पाठ्यक्रमनिर्माणे दोषः। कृपया पुनः प्रयतताम्।",
+            "assignFailed": "मार्गदर्शकाय नियोजितः पाठ्यक्रमः निर्माणे असफलम्।",
+            "chapterError": "अध्याये \"{{chapter}}\" सामग्री निर्माणे दोषः"
+        },
+        "warnings": {
+            "chapterSkipped": "अध्याये \"{{chapter}}\" सामग्री निर्माणे असफलम्। अयं अध्यायः त्यक्तः।"
+        }
+    },
+    "courseDetails": {
+        "loading": "पाठ्यक्रमविवरणं लोड् भवति...",
+        "translating": "सामग्री अनुवाद्यते...",
+        "description": "विवरणम्",
+        "skills": "कौशलानि",
+        "level": "स्तरः",
+        "duration": "अवधिः",
+        "outcomesTitle": "पाठ्यक्रमफलानि",
+        "chaptersTitle": "पाठ्यक्रमाध्यायाः",
+        "about": "विषये",
+        "assessmentTitle": "अन्तिमं मूल्याङ्कनम्",
+        "finalAssessment": "अन्तिमं मूल्याङ्कनम्",
+        "bestScore": "उत्तमः स्कोर्",
+        "completed": "सम्पूर्णम्",
+        "unlocked": "मुक्तम्",
+        "locked": "बद्धम्",
+        "downloadCertificate": "प्रमाणपत्रं डाउनलोड् करोतु",
+        "editTitle": "पाठ्यक्रमं सम्पादयतु",
+        "buttons": {
+            "back": "पृष्ठे",
+            "edit": "सम्पादयतु",
+            "save": "परिवर्तनानि सुरक्षयतु",
+            "cancel": "रद्द् करोतु",
+            "addChapter": "अध्यायं योजयतु"
+        },
+        "errors": {
+            "noToken": "न कोऽपि प्रमाणीकरणटोकन् प्राप्तः",
+            "fetchFailed": "पाठ्यक्रमडाटा आने असफलम्",
+            "fetchError": "पाठ्यक्रमडाटा आने दोषः:",
+            "updateFailed": "पाठ्यक्रमस्थितिं अद्यतनीकर्तुम् असफलम्",
+            "updateError": "पाठ्यक्रमस्थितिं अद्यतनीकर्तुं दोषः:",
+            "translationError": "सामग्री अनुवादे दोषः:",
+            "assessmentError": "मूल्याङ्कनानाम् आनयने दोषः:",
+            "noAssessments": "अस्य पाठ्यक्रमस्य न किमपि मूल्याङ्कनं प्राप्तम्"
+        },
+        "certificate": {
+            "title": "पूर्णताप्रमाणपत्रम्",
+            "certifyText": "इदं प्रमाणयति यत्",
+            "completedText": "इमं पाठ्यक्रमं सफलतया समापितवान्",
+            "issuedOn": "प्रदत्तदिनाङ्कः:",
+            "issuedBy": "प्रदाता:"
+        }
+    },
+    "assessment": {
+        "title": "पाठ्यक्रमसमाप्तिमूल्याङ्कनम्",
+        "subtitle": "पाठ्यक्रमं समाप्तुं पूर्वं स्वज्ञानं परीक्ष्यताम्",
+        "loading": "मूल्याङ्कनं सृज्यते...",
+        "questionLabel": "प्रश्नः",
+        "ofQuestions": "मध्ये",
+        "questions": "प्रश्नाः",
+        "questionsTitle": "प्रश्नाः",
+        "progress": "प्रगतिः",
+        "buttons": {
+            "previous": "पूर्वम्",
+            "next": "अग्रिमम्",
+            "submit": "प्रश्नोत्तरीं प्रेषयतु"
+        },
+        "errors": {
+            "generateFailed": "पाठ्यक्रमसमाप्तिमूल्याङ्कने दोषः:"
+        }
+    },
+    "projects": {
+        "title": "AI प्रकल्पसुझावाः",
+        "subtitle": "कृत्रिमप्रज्ञाशक्त्या नवीनप्रकल्पविचारान् अन्विष्यताम्",
+        "loading": "वैयक्तिकसुझावाः लोड् भवन्ति...",
+        "featuresTitle": "मुख्यविशेषताः",
+        "filter": {
+            "title": "विषयेण फिल्टर् करोतु",
+            "all": "सर्वे"
+        },
+        "buttons": {
+            "getRecommendations": "AI प्रकल्पसुझावान् प्राप्नुत",
+            "loading": "सुझावाः लोड् भवन्ति..."
+        },
+        "empty": {
+            "title": "न किमपि सुझावाः अद्यावधौ",
+            "message": "वैयक्तिकAI प्रकल्पसुझावान् प्राप्तुं उपरितनं बटनं क्लिक् करोतु"
+        },
+        "errors": {
+            "notLoggedIn": "उपयोक्ता लॉगिन् न कृतवान्",
+            "fetchFailed": "प्रकल्पसुझावानाम् आनयने दोषः:"
+        }
+    },
+    "sidebar": {
+        "appName": "एथेनाAI",
+        "guestName": "अतिथिः",
+        "guestInitial": "अ",
+        "guestEmail": "guest@example.com",
+        "logout": "लॉगाउट्",
+        "aria": {
+            "expand": "साइडबारं विस्तारयतु",
+            "collapse": "साइडबारं संकुचयतु"
+        },
+        "items": {
+            "profile": "प्रोफाइल्",
+            "courses": "पाठ्यक्रमाः",
+            "assessments": "मूल्याङ्कनानि",
+            "attendance": "उपस्थितिः",
+            "video": "वीडियो सम्मेलनम्",
+            "projects": "प्रकल्पसुझावाः",
+            "schedule": "AI अनुसूची",
+            "coding": "कोडिंग्",
+            "challenge": "स्वयमात्मानं चुनौती",
+            "exams": "परीक्षाः",
+            "interviews": "मोक् साक्षात्काराः",
+            "internships": "इंटर्नशिप्"
+        }
+    },
+    "notes": {
+        "title": "टिप्पणीः पश्यतु",
+        "description": "विस्तृताः, संरचिताः डिजिटलटिप्पण्यः उपयुज्य स्वाध्यायानुभवं परिवर्तयतु।",
+        "button": "टिप्पणीः पश्यतु"
+    },
+    "flashcards": {
+        "title": "फ्लैश्कार्डाः पश्यतु",
+        "description": "संवादात्मकाः, स्वकीयाः फ्लैश्कार्डाः उपयुज्य स्मरणशक्तिं वर्धयतु।",
+        "button": "फ्लैश्कार्डाः पश्यतु"
+    }
+}

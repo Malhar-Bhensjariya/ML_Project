@@ -1,0 +1,245 @@
+{
+    "Welcome": "ꯂꯦꯡꯂꯛꯆꯌꯨ",
+    "Discover the power of AI with OdesseyAI": "ꯑꯣꯗꯤꯁꯤꯑꯥꯏ ꯒꯤ ꯃꯇꯥꯡꯗꯥ ꯑꯥꯔꯇꯤꯐꯤꯁꯤꯑꯦꯜ ꯏꯟꯇꯦꯂꯤꯖꯦꯟꯁ ꯒꯤ ꯃꯄꯥꯡ ꯊꯤꯕ",
+    "myCourses": {
+        "title": "ꯑꯩꯒꯤ ꯀꯣꯔꯁꯁꯤꯡ",
+        "createCourse": "ꯀꯣꯔꯁ ꯁꯦꯝꯕ",
+        "noCourses": "ꯀꯣꯔꯁ ꯐꯪꯈꯔꯦ",
+        "startJourney": "ꯑꯅꯧꯕ ꯀꯣꯔꯁ ꯑꯃ ꯁꯦꯝꯕꯗꯒꯤ ꯅꯍꯥꯛꯀꯤ ꯃꯈꯜ ꯍꯧꯔꯒꯥ ꯍꯧꯕꯤꯌꯨ!"
+    },
+    "error": {
+        "fetchCourses": "ꯀꯣꯔꯁ ꯂꯧꯊꯣꯛꯄꯗꯥ ꯐꯥꯎꯈꯔꯦ"
+    },
+    "assignedCourses": {
+        "title": "ꯄꯤꯈꯠꯄ ꯀꯣꯔꯁꯁꯤꯡ",
+        "assignedMessage": "{{count}} ꯀꯣꯔꯁ{{count !== 1 ? 'ꯁꯤꯡ' : ''}} ꯅꯍꯥꯛꯄꯨ ꯄꯤꯈꯠꯂꯦ",
+        "noCourses": "ꯄꯤꯈꯠꯄ ꯀꯣꯔꯁ ꯑꯃꯠꯇꯥ ꯂꯩꯇꯦ",
+        "waitingMessage": "ꯅꯍꯥꯛꯀꯤ ꯃꯦꯟꯇꯔꯅꯥ ꯍꯧꯖꯤꯛꯁꯨ ꯅꯍꯥꯛꯄꯨ ꯀꯣꯔꯁ ꯄꯤꯈꯠꯇꯦ꯫",
+        "completed": "ꯃꯄꯨꯡ ꯐꯥꯕ",
+        "assignedOn": "{{date}} ꯗꯥ ꯄꯤꯈꯠꯂꯦ",
+        "startLearning": "ꯃꯈꯜ ꯍꯧꯕꯤꯌꯨ"
+    },
+    "courseLevels": {
+        "Basic": "ꯃꯍꯧꯁꯥ",
+        "Intermediate": "ꯃꯌꯥꯝꯒꯤ ꯃꯅꯨꯡ",
+        "Advanced": "ꯑꯅꯧꯕ"
+    },
+    "errorFetchingQuestions": "ꯋꯥꯈꯜꯂꯣꯟ ꯂꯧꯊꯣꯛꯄꯗꯥ ꯑꯀꯊꯣꯏꯕ",
+    "errorUpdatingScore": "ꯁ꯭ꯀꯣꯔ ꯑꯄꯗꯦꯠ ꯇꯧꯕꯗꯥ ꯑꯀꯊꯣꯏꯕ",
+    "loadingQuiz": "ꯀ꯭ꯋꯤꯖ ꯂꯣꯗ ꯇꯧꯔꯤ...",
+    "challengeQuiz": "ꯃꯁꯤꯒꯤ ꯀ꯭ꯋꯤꯖꯗꯒꯤ ꯅꯍꯥꯛꯄꯨ ꯆꯦꯂꯦꯟꯖ ꯇꯧꯕꯤꯌꯨ!",
+    "quizDescription": "ꯅꯍꯥꯛꯀꯤ ꯋꯥꯈꯜꯂꯣꯟ ꯑꯁꯤ ꯆꯦꯛ ꯇꯧꯕꯤꯌꯨ ꯑꯃꯁꯨꯡ ꯅꯍꯥꯛ ꯀꯌꯥ ꯐꯖꯅꯥ ꯇꯧꯒꯗ꯭ꯔꯤ꯫",
+    "previous": "ꯃꯃꯥꯡꯒꯤ",
+    "next": "ꯃꯇꯨꯡꯒꯤ",
+    "submitQuiz": "ꯀ꯭ꯋꯤꯖ ꯄꯤꯔꯀꯄꯤꯌꯨ",
+    "generateTest": "ꯇꯦꯁ꯭ꯠ ꯁꯦꯝꯕ",
+    "createPersonalizedAssessment": "ꯄꯔꯁꯅꯦꯂꯥꯏꯖ ꯑꯦꯁꯦꯁꯃꯦꯟꯠ ꯁꯦꯝꯕ",
+    "enterTopicPlaceholder": "ꯇꯣꯞꯤꯛ ꯑꯃ ꯑꯦꯟꯇꯔ ꯇꯧꯕꯤꯌꯨ (ꯑꯦꯖꯦꯝꯄꯜ: ꯔꯤꯑꯦꯛꯇ, ꯃꯁꯤꯟ ꯂꯔꯅꯤꯡ)",
+    "generateNewAssessment": "ꯑꯅꯧꯕ ꯑꯦꯁꯦꯁꯃꯦꯟꯠ ꯁꯦꯝꯕ",
+    "yourAssessments": "ꯅꯍꯥꯛꯀꯤ ꯑꯦꯁꯦꯁꯃꯦꯟꯠꯁꯤꯡ",
+    "trackLearningProgress": "ꯅꯍꯥꯛꯀꯤ ꯃꯈꯜ ꯄ꯭ꯔꯒ꯭ꯔꯦꯁ ꯇ꯭ꯔꯦꯛ ꯇꯧꯕꯤꯌꯨ",
+    "totalTests": "ꯃꯄꯨꯡ ꯇꯦꯁ꯭ꯠ",
+    "noAssessmentsYet": "ꯍꯧꯖꯤꯛꯁꯨ ꯑꯦꯁꯦꯁꯃꯦꯟꯠ ꯂꯩꯇꯦ",
+    "startLearningJourney": "ꯇꯦꯁ꯭ꯠ ꯑꯃ ꯁꯦꯝꯕꯗꯒꯤ ꯅꯍꯥꯛꯀꯤ ꯃꯈꯜ ꯍꯧꯔꯒꯥ ꯍꯧꯕꯤꯌꯨ!",
+    "score": "ꯁ꯭ꯀꯣꯔ",
+    "reattemptTest": "ꯇꯦꯁ꯭ꯠ ꯑꯃꯨꯛ ꯍꯟꯅꯥ ꯇꯧꯕꯤꯌꯨ",
+    "errorFetchingAssessments": "ꯑꯦꯁꯦꯁꯃꯦꯟꯠ ꯂꯧꯊꯣꯛꯄꯗꯥ ꯑꯀꯊꯣꯏꯕ",
+    "errorGeneratingAssessment": "ꯑꯦꯁꯦꯁꯃꯦꯟꯠ ꯁꯦꯝꯕꯗꯥ ꯑꯀꯊꯣꯏꯕ",
+    "examReview": {
+        "title": "ꯏꯒꯖꯥꯃꯤꯅꯦꯁꯟ ꯔꯤꯚꯤꯌꯨ",
+        "yourScore": "ꯅꯍꯥꯛꯀꯤ ꯁ꯭ꯀꯣꯔ",
+        "scoreSummary": "ꯅꯍꯥꯛꯅꯥ {{total}} ꯋꯥꯈꯜꯂꯣꯟꯗꯒꯤ {{correct}} ꯋꯥꯈꯜꯂꯣꯟꯗꯥ ꯌꯥꯝꯅꯥ ꯃꯃꯜ ꯂꯩꯕꯥ ꯑꯦꯟꯁꯔ ꯄꯤꯈꯤ꯫",
+        "notAttempted": "ꯇꯧꯈꯤꯗꯦ",
+        "noQuizData": "ꯀ꯭ꯋꯤꯖ ꯗꯦꯇꯥ ꯐꯪꯗꯦ",
+        "startNewQuiz": "ꯀꯔꯨꯝꯕꯥꯅꯣ ꯍꯣꯝ ꯄꯦꯖꯗꯒꯤ ꯑꯅꯧꯕ ꯀ꯭ꯋꯤꯖ ꯍꯧꯕꯤꯌꯨ",
+        "backToHome": "ꯍꯣꯝꯗꯥ ꯍꯜꯂꯛꯄꯤꯌꯨ"
+    },
+    "createCourse": {
+        "title": "ꯀꯣꯔꯁ ꯁꯦꯝꯕ",
+        "steps": {
+            "skills": "ꯁ꯭ꯀꯤꯜꯁꯤꯡ",
+            "topic": "ꯇꯣꯞꯤꯛ ꯑꯃꯁꯨꯡ ꯏꯃꯨꯡ",
+            "options": "ꯑꯣꯄꯁꯟꯁꯤꯡ",
+            "generated": "ꯁꯦꯝꯈꯔꯕ ꯀꯣꯔꯁ"
+        },
+        "skills": {
+            "title": "ꯁ꯭ꯀꯤꯜꯁꯤꯡ ꯈꯟꯕ",
+            "addPlaceholder": "ꯁ꯭ꯀꯤꯜ ꯍꯥꯞꯄꯤꯌꯨ",
+            "addButton": "ꯁ꯭ꯀꯤꯜ ꯍꯥꯞꯄꯤꯌꯨ"
+        },
+        "topic": {
+            "title": "ꯇꯣꯞꯤꯛ & ꯏꯃꯨꯡ",
+            "topicPlaceholder": "ꯇꯣꯞꯤꯛ",
+            "descriptionPlaceholder": "ꯀꯣꯔꯁ ꯏꯃꯨꯡ"
+        },
+        "options": {
+            "title": "ꯑꯣꯄꯁꯟꯁꯤꯡ",
+            "difficultyPlaceholder": "ꯔꯥꯖꯅꯤ ꯈꯟꯕ",
+            "difficulty": {
+                "basic": "ꯃꯍꯧꯁꯥ",
+                "intermediate": "ꯃꯌꯥꯝꯒꯤ ꯃꯅꯨꯡ",
+                "advanced": "ꯑꯅꯧꯕ"
+            },
+            "durationPlaceholder": "ꯃꯇꯝ",
+            "chaptersPlaceholder": "ꯆꯥꯄꯥꯔꯁꯤꯡꯒꯤ ꯃꯁꯤꯡ (1-5)"
+        },
+        "preview": {
+            "description": "ꯏꯃꯨꯡ",
+            "skills": "ꯁ꯭ꯀꯤꯜꯁꯤꯡ",
+            "level": "ꯂꯦꯕꯦꯜ",
+            "duration": "ꯃꯇꯝ",
+            "chapters": "ꯆꯥꯄꯥꯔꯁꯤꯡꯒꯤ ꯃꯁꯤꯡ",
+            "outcomes": "ꯀꯣꯔꯁ ꯔꯤꯖꯂ꯭ꯠꯁꯤꯡ",
+            "chaptersTitle": "ꯆꯥꯄꯥꯔꯁꯤꯡ",
+            "chapterDuration": "ꯃꯇꯝ",
+            "content": "ꯆꯥꯄꯥꯔ ꯀꯟꯇꯦꯟꯇ"
+        },
+        "buttons": {
+            "backToCourses": "ꯑꯩꯒꯤ ꯀꯣꯔꯁꯁꯤꯡꯗꯥ ꯍꯜꯂꯛꯄꯤꯌꯨ",
+            "back": "ꯃꯃꯥꯡꯒꯤ",
+            "next": "ꯃꯇꯨꯡꯒꯤ",
+            "generate": "ꯁꯦꯝꯕ",
+            "generating": "ꯁꯦꯝꯂꯤ...",
+            "finish": "ꯃꯄꯨꯡ ꯐꯥꯎꯕ",
+            "finalizing": "ꯐꯥꯏꯅꯦꯜꯂꯥꯏꯖ ꯇꯧꯔꯤ..."
+        },
+        "success": {
+            "layoutGenerated": "ꯀꯣꯔꯁ ꯂꯦꯑꯥꯎꯠ ꯌꯥꯝꯅꯥ ꯃꯃꯜ ꯂꯩꯕꯥ ꯁꯦꯝꯈꯔꯦ!",
+            "courseCreated": "ꯀꯣꯔꯁ ꯌꯥꯝꯅꯥ ꯃꯃꯜ ꯂꯩꯕꯥ ꯁꯦꯝꯈꯔꯦ!",
+            "assignedCreated": "ꯃꯦꯟꯇꯔꯅꯥ ꯄꯤꯈꯠꯄ ꯀꯣꯔꯁ ꯁꯦꯝꯈꯔꯦ꯫"
+        },
+        "errors": {
+            "generateFailed": "ꯀꯣꯔꯁ ꯂꯦꯑꯥꯎꯠ ꯁꯦꯝꯕꯗꯥ ꯐꯥꯎꯈꯔꯦ",
+            "noChapters": "ꯀꯔꯨꯝꯕꯥꯅꯣ ꯑꯍꯥꯅꯕꯗꯥ ꯆꯥꯄꯥꯔꯁꯤꯡ ꯌꯥꯎꯕꯥ ꯀꯣꯔꯁ ꯑꯃ ꯁꯦꯝꯕꯤꯌꯨ",
+            "chapterFailed": "ꯆꯥꯄꯥꯔꯅꯥ ꯀꯟꯇꯦꯟꯇ ꯂꯧꯊꯣꯛꯕꯗꯥ ꯐꯥꯎꯈꯔꯦ: {{chapter}}",
+            "sessionExpired": "ꯁꯦꯁꯟ ꯃꯄꯨꯡ ꯐꯥꯈꯔꯦ ꯅꯠꯇ꯭ꯔꯒꯥ ꯅꯍꯥꯛꯅꯥ ꯂꯣꯒꯤꯟ ꯇꯧꯈꯤꯗꯦ꯫ ꯀꯔꯨꯝꯕꯥꯅꯣ ꯑꯃꯨꯛ ꯍꯟꯅꯥ ꯂꯣꯒꯤꯟ ꯇꯧꯕꯤꯌꯨ꯫",
+            "noCourseId": "ꯀꯣꯔꯁ ꯁꯦꯝꯈꯔꯦ, ꯑꯗꯨꯕꯨ ꯀꯣꯔꯁ ꯑꯥꯏꯗꯤ ꯂꯧꯊꯣꯛꯄꯗꯥ ꯐꯥꯎꯈꯔꯦ",
+            "createFailed": "ꯀꯣꯔꯁ ꯁꯦꯝꯕꯗꯥ ꯑꯔꯣꯏꯕꯥ ꯐꯪꯈꯔꯦ",
+            "saveFailed": "ꯀꯣꯔꯁ ꯁꯦꯚ ꯇꯧꯕꯗꯥ ꯐꯥꯎꯈꯔꯦ꯫ ꯀꯔꯨꯝꯕꯥꯅꯣ ꯑꯃꯨꯛ ꯍꯟꯅꯥ ꯇꯧꯕꯤꯌꯨ꯫",
+            "generationFailed": "ꯀꯣꯔꯁ ꯁꯦꯝꯕꯗꯥ ꯑꯔꯣꯏꯕꯥ ꯐꯪꯈꯔꯦ꯫ ꯀꯔꯨꯝꯕꯥꯅꯣ ꯑꯃꯨꯛ ꯍꯟꯅꯥ ꯇꯧꯕꯤꯌꯨ꯫",
+            "assignFailed": "ꯃꯦꯟꯇꯔꯅꯥ ꯄꯤꯈꯠꯄ ꯀꯣꯔꯁ ꯁꯦꯝꯕꯗꯥ ꯐꯥꯎꯈꯔꯦ꯫",
+            "chapterError": "ꯆꯥꯄꯥꯔ \"{{chapter}}\"ꯒꯤꯗꯃꯛꯇꯥ ꯀꯟꯇꯦꯟꯇ ꯁꯦꯝꯕꯗꯥ ꯑꯔꯣꯏꯕꯥ ꯐꯪꯈꯔꯦ"
+        },
+        "warnings": {
+            "chapterSkipped": "ꯆꯥꯄꯥꯔ \"{{chapter}}\"ꯒꯤꯗꯃꯛꯇꯥ ꯀꯟꯇꯦꯟꯇ ꯁꯦꯝꯕꯗꯥ ꯐꯥꯎꯈꯔꯦ꯫ ꯃꯁꯤꯒꯤ ꯆꯥꯄꯥꯔ ꯑꯁꯤ ꯃꯥꯟꯅꯥ ꯊꯥꯒꯠꯄꯥ ꯌꯥꯏ꯫"
+        }
+    },
+    "courseDetails": {
+        "loading": "ꯀꯣꯔꯁ ꯗꯤꯇꯦꯜꯁꯤꯡ ꯂꯣꯗ ꯇꯧꯔꯤ...",
+        "translating": "ꯀꯟꯇꯦꯟꯇ ꯇ꯭ꯔꯥꯟꯁ꯭ꯂꯦꯠ ꯇꯧꯔꯤ...",
+        "description": "ꯏꯃꯨꯡ",
+        "skills": "ꯁ꯭ꯀꯤꯜꯁꯤꯡ",
+        "level": "ꯂꯦꯕꯦꯜ",
+        "duration": "ꯃꯇꯝ",
+        "outcomesTitle": "ꯀꯣꯔꯁ ꯔꯤꯖꯂ꯭ꯠꯁꯤꯡ",
+        "chaptersTitle": "ꯀꯣꯔꯁ ꯆꯥꯄꯥꯔꯁꯤꯡ",
+        "about": "ꯃꯔꯨꯑꯣꯏꯕ",
+        "assessmentTitle": "ꯐꯥꯏꯅꯦꯜ ꯑꯦꯁꯦꯁꯃꯦꯟꯠ",
+        "finalAssessment": "ꯐꯥꯏꯅꯦꯜ ꯑꯦꯁꯦꯁꯃꯦꯟꯠ",
+        "bestScore": "ꯍꯦꯟꯅꯥ ꯐꯖꯩꯕꯥ ꯁ꯭ꯀꯣꯔ",
+        "completed": "ꯃꯄꯨꯡ ꯐꯥꯕ",
+        "unlocked": "ꯑꯟꯂꯣꯛ ꯇꯧꯔꯦ",
+        "locked": "ꯂꯣꯛ ꯇꯧꯔꯦ",
+        "downloadCertificate": "ꯁꯔꯇꯤꯐꯤꯀꯦꯠ ꯗꯥꯎꯟꯂꯣꯗ ꯇꯧꯕꯤꯌꯨ",
+        "editTitle": "ꯀꯣꯔꯁ ꯏꯗꯤꯠ ꯇꯧꯕꯤꯌꯨ",
+        "buttons": {
+            "back": "ꯃꯃꯥꯡꯒꯤ",
+            "edit": "ꯏꯗꯤꯠ ꯇꯧꯕꯤꯌꯨ",
+            "save": "ꯆꯦꯡꯕꯁꯤꯡ ꯁꯦꯚ ꯇꯧꯕꯤꯌꯨ",
+            "cancel": "ꯀꯦꯟꯁꯦꯜ ꯇꯧꯕꯤꯌꯨ",
+            "addChapter": "ꯆꯥꯄꯥꯔ ꯍꯥꯞꯄꯤꯌꯨ"
+        },
+        "errors": {
+            "noToken": "ꯑꯣꯊꯦꯟꯇꯤꯀꯦꯁꯟ ꯇꯣꯀꯦꯟ ꯐꯪꯈꯔꯦ",
+            "fetchFailed": "ꯀꯣꯔꯁ ꯗꯦꯇꯥ ꯂꯧꯊꯣꯛꯕꯗꯥ ꯐꯥꯎꯈꯔꯦ",
+            "fetchError": "ꯀꯣꯔꯁ ꯗꯦꯇꯥ ꯂꯧꯊꯣꯛꯕꯗꯥ ꯑꯔꯣꯏꯕꯥ ꯐꯪꯈꯔꯦ:",
+            "updateFailed": "ꯀꯣꯔꯁ ꯁ꯭ꯇꯦꯇꯁ ꯑꯦꯄꯗꯦꯠ ꯇꯧꯕꯗꯥ ꯐꯥꯎꯈꯔꯦ",
+            "updateError": "ꯀꯣꯔꯁ ꯁ꯭ꯇꯦꯇꯁ ꯑꯦꯄꯗꯦꯠ ꯇꯧꯕꯗꯥ ꯑꯔꯣꯏꯕꯥ ꯐꯪꯈꯔꯦ:",
+            "translationError": "ꯀꯟꯇꯦꯟꯇ ꯇ꯭ꯔꯥꯟꯁ꯭ꯂꯦꯠ ꯇꯧꯕꯗꯥ ꯑꯔꯣꯏꯕꯥ ꯐꯪꯈꯔꯦ:",
+            "assessmentError": "ꯑꯦꯁꯦꯁꯃꯦꯟꯠ ꯂꯧꯊꯣꯛꯕꯗꯥ ꯑꯔꯣꯏꯕꯥ ꯐꯪꯈꯔꯦ:",
+            "noAssessments": "ꯃꯁꯤꯒꯤ ꯀꯣꯔꯁꯇꯥ ꯑꯦꯁꯦꯁꯃꯦꯟꯠ ꯐꯪꯗꯦ"
+        },
+        "certificate": {
+            "title": "ꯀꯝꯞꯂꯤꯁꯟ ꯁꯔꯇꯤꯐꯤꯀꯦꯠ",
+            "certifyText": "ꯃꯁꯤꯅꯥ ꯁꯥꯏꯟ ꯇꯧꯔꯤ ꯃꯗꯨꯗꯤ",
+            "completedText": "ꯀꯣꯔꯁ ꯑꯁꯤ ꯌꯥꯝꯅꯥ ꯃꯃꯜ ꯂꯩꯕꯥ ꯃꯄꯨꯡ ꯐꯥꯎꯈꯔꯦ",
+            "issuedOn": "ꯏꯁ꯭ꯌꯨ ꯇꯧꯈꯤꯕꯥ ꯇꯥꯔꯤꯈ:",
+            "issuedBy": "ꯏꯁ꯭ꯌꯨ ꯇꯧꯈꯤꯕꯥ:"
+        }
+    },
+    "assessment": {
+        "title": "ꯀꯣꯔꯁ ꯑꯦꯟꯗ ꯑꯦꯁꯦꯁꯃꯦꯟꯠ",
+        "subtitle": "ꯀꯣꯔꯁ ꯃꯄꯨꯡ ꯐꯥꯎꯕꯒꯤ ꯃꯃꯥꯡꯗꯥ ꯅꯍꯥꯛꯀꯤ ꯋꯥꯈꯜꯂꯣꯟ ꯇꯦꯁ꯭ꯠ ꯇꯧꯕꯤꯌꯨ",
+        "loading": "ꯑꯦꯁꯦꯁꯃꯦꯟꯠ ꯁꯦꯝꯂꯤ...",
+        "questionLabel": "ꯋꯥꯈꯜꯂꯣꯟ",
+        "ofQuestions": "ꯃꯔꯛꯇꯥ",
+        "questions": "ꯋꯥꯈꯜꯂꯣꯟꯁꯤꯡ",
+        "questionsTitle": "ꯋꯥꯈꯜꯂꯣꯟꯁꯤꯡ",
+        "progress": "ꯄ꯭ꯔꯣꯒ꯭ꯔꯦꯁ",
+        "buttons": {
+            "previous": "ꯃꯃꯥꯡꯒꯤ",
+            "next": "ꯃꯇꯨꯡꯒꯤ",
+            "submit": "ꯀ꯭ꯋꯤꯖ ꯄꯤꯔꯀꯄꯤꯌꯨ"
+        },
+        "errors": {
+            "generateFailed": "ꯀꯣꯔꯁ ꯑꯦꯟꯗ ꯑꯦꯁꯦꯁꯃꯦꯟꯠ ꯁꯦꯝꯕꯗꯥ ꯑꯔꯣꯏꯕꯥ ꯐꯪꯈꯔꯦ:"
+        }
+    },
+    "projects": {
+        "title": "ꯑꯥꯔꯇꯤꯐꯤꯁꯤꯑꯦꯜ ꯏꯟꯇꯦꯂꯤꯖꯦꯟꯁ ꯄ꯭ꯔꯣꯖꯦꯛꯇ ꯔꯤꯀꯃꯦꯟꯗꯦꯁꯟꯁꯤꯡ",
+        "subtitle": "ꯑꯥꯔꯇꯤꯐꯤꯁꯤꯑꯦꯜ ꯏꯟꯇꯦꯂꯤꯖꯦꯟꯁꯀꯤ ꯃꯄꯥꯡꯗꯥ ꯑꯅꯧꯕꯥ ꯄ꯭ꯔꯣꯖꯦꯛꯇ ꯑꯦꯖꯥꯁꯤꯡ ꯊꯤꯕ",
+        "loading": "ꯄꯔꯁꯅꯦꯂꯥꯏꯖ ꯔꯤꯀꯃꯦꯟꯗꯦꯁꯟꯁꯤꯡ ꯂꯣꯗ ꯇꯧꯔꯤ...",
+        "featuresTitle": "ꯃꯔꯨꯑꯣꯏꯕꯥ ꯐꯤꯆꯔꯁꯤꯡ",
+        "filter": {
+            "title": "ꯗꯣꯃꯦꯟ ꯑꯣꯏꯗꯥ ꯐꯤꯜꯇꯔ ꯇꯧꯕꯤꯌꯨ",
+            "all": "ꯄꯨꯟꯁꯤ"
+        },
+        "buttons": {
+            "getRecommendations": "ꯑꯥꯏ.ꯑꯥꯏ. ꯄ꯭ꯔꯣꯖꯦꯛꯇ ꯔꯤꯀꯃꯦꯟꯗꯦꯁꯟꯁꯤꯡ ꯂꯧꯕꯤꯌꯨ",
+            "loading": "ꯔꯤꯀꯃꯦꯟꯗꯦꯁꯟꯁꯤꯡ ꯂꯣꯗ ꯇꯧꯔꯤ..."
+        },
+        "empty": {
+            "title": "ꯍꯧꯖꯤꯛꯁꯨ ꯔꯤꯀꯃꯦꯟꯗꯦꯁꯟ ꯂꯩꯇꯦ",
+            "message": "ꯄꯔꯁꯅꯦꯂꯥꯏꯖ ꯑꯥꯏ.ꯑꯥꯏ. ꯄ꯭ꯔꯣꯖꯦꯛꯇ ꯔꯤꯀꯃꯦꯟꯗꯦꯁꯟꯁꯤꯡ ꯂꯧꯕꯤꯌꯨ ꯍꯥꯏꯕꯗꯥ ꯃꯥꯎꯟꯠꯇꯥ ꯀ꯭ꯂꯤꯛ ꯇꯧꯕꯤꯌꯨ"
+        },
+        "errors": {
+            "notLoggedIn": "ꯌꯨꯖꯔ ꯂꯣꯒꯤꯟ ꯇꯧꯈꯤꯗꯦ",
+            "fetchFailed": "ꯄ꯭ꯔꯣꯖꯦꯛꯇ ꯔꯤꯀꯃꯦꯟꯗꯦꯁꯟꯁꯤꯡ ꯂꯧꯊꯣꯛꯕꯗꯥ ꯑꯔꯣꯏꯕꯥ ꯐꯪꯈꯔꯦ:"
+        }
+    },
+    "sidebar": {
+        "appName": "ꯑꯦꯊꯦꯅꯥAI",
+        "guestName": "ꯒꯦꯁ꯭ꯠ",
+        "guestInitial": "ꯒ",
+        "guestEmail": "guest@example.com",
+        "logout": "ꯂꯣꯒꯑꯥꯎꯠ",
+        "aria": {
+            "expand": "ꯁꯥꯏꯗꯕꯥꯔ ꯑꯦꯛꯁ꯭ꯄꯥꯟꯗ ꯇꯧꯕꯤꯌꯨ",
+            "collapse": "ꯁꯥꯏꯗꯕꯥꯔ ꯀꯣꯂꯦꯞꯁ ꯇꯧꯕꯤꯌꯨ"
+        },
+        "items": {
+            "profile": "ꯄ꯭ꯔꯣꯐꯥꯏꯜ",
+            "courses": "ꯀꯣꯔꯁꯁꯤꯡ",
+            "assessments": "ꯑꯦꯁꯦꯁꯃꯦꯟꯠꯁꯤꯡ",
+            "attendance": "ꯑꯦꯇꯦꯟꯗꯦꯟꯁ",
+            "video": "ꯚꯤꯗꯤꯑꯣ ꯀꯣꯟꯐꯔꯦꯟꯁꯤꯡ",
+            "projects": "ꯄ꯭ꯔꯣꯖꯦꯛꯇ ꯔꯤꯀꯃꯦꯟꯗꯦꯁꯟꯁꯤꯡ",
+            "schedule": "ꯑꯥꯏ.ꯑꯥꯏ. ꯁ꯭ꯀꯦꯖꯨꯜ",
+            "coding": "ꯀꯣꯗꯤꯡ",
+            "challenge": "নংগো চ্যালেঞ্জ তৌ",
+            "exams": "ꯏꯒꯖꯥꯃꯤꯅꯦꯁꯟꯁꯤꯡ",
+            "interviews": "ꯃꯣꯛ ꯏꯟꯇꯔꯚꯤꯌꯨꯁꯤꯡ",
+            "internships": "ꯏꯟꯇꯔꯟꯁꯤꯞꯁꯤꯡ"
+        }
+    },
+    "notes": {
+        "title": "নোট চাও",
+        "description": "সম্পূর্ণ, সংগঠিত ডিজিটেল নোট দিয়া তোমার শিখার অভিজ্ঞতা পরিবর্তন কর।",
+        "button": "নোট চাও"
+    },
+    "flashcards": {
+        "title": "ফ্লাশকার্ড চাও",
+        "description": "ইন্টারেক্টিভ, কাষ্টম-জেনারেটেড ফ্লাশকার্ড দিয়া তোমার স্মৃতি শক্তি বাড়াও।",
+        "button": "ফ্লাশকার্ড চাও"
+    }
+}

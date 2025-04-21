@@ -1,0 +1,245 @@
+{
+    "Welcome": "ਜੀ ਆਇਆਂ ਨੂੰ",
+    "Discover the power of AI with OdesseyAI": "ਓਡੀਸੀAI ਨਾਲ AI ਦੀ ਤਾਕਤ ਦੀ ਖੋਜ ਕਰੋ",
+    "myCourses": {
+        "title": "ਮੇਰੇ ਕੋਰਸ",
+        "createCourse": "ਕੋਰਸ ਬਣਾਓ",
+        "noCourses": "ਕੋਈ ਕੋਰਸ ਨਹੀਂ ਮਿਲੇ",
+        "startJourney": "ਨਵਾਂ ਕੋਰਸ ਬਣਾ ਕੇ ਆਪਣੀ ਸਿੱਖਣ ਦੀ ਯਾਤਰਾ ਸ਼ੁਰੂ ਕਰੋ!"
+    },
+    "error": {
+        "fetchCourses": "ਕੋਰਸ ਲਿਆਉਣ ਵਿੱਚ ਅਸਫਲ"
+    },
+    "assignedCourses": {
+        "title": "ਸੌਂਪੇ ਗਏ ਕੋਰਸ",
+        "assignedMessage": "{{count}} ਕੋਰਸ{{count !== 1 ? ' ' : ''}} ਤੁਹਾਨੂੰ ਸੌਂਪੇ ਗਏ ਹਨ",
+        "noCourses": "ਕੋਈ ਸੌਂਪੇ ਗਏ ਕੋਰਸ ਨਹੀਂ",
+        "waitingMessage": "ਤੁਹਾਡੇ ਮਾਰਗਦਰਸ਼ਕ ਨੇ ਅਜੇ ਤੁਹਾਨੂੰ ਕੋਈ ਕੋਰਸ ਨਹੀਂ ਸੌਂਪਿਆ।",
+        "completed": "ਪੂਰਾ ਹੋਇਆ",
+        "assignedOn": "{{date}} ਨੂੰ ਸੌਂਪਿਆ ਗਿਆ",
+        "startLearning": "ਸਿੱਖਣਾ ਸ਼ੁਰੂ ਕਰੋ"
+    },
+    "courseLevels": {
+        "Basic": "ਬੁਨਿਆਦੀ",
+        "Intermediate": "ਮੱਧਮ",
+        "Advanced": "ਉੱਨਤ"
+    },
+    "errorFetchingQuestions": "ਸਵਾਲ ਲਿਆਉਣ ਵਿੱਚ ਗਲਤੀ",
+    "errorUpdatingScore": "ਸਕੋਰ ਅਪਡੇਟ ਕਰਨ ਵਿੱਚ ਗਲਤੀ",
+    "loadingQuiz": "ਕੁਇਜ਼ ਲੋਡ ਹੋ ਰਹੀ ਹੈ...",
+    "challengeQuiz": "ਇਸ ਕੁਇਜ਼ ਨਾਲ ਆਪਣੇ ਆਪ ਨੂੰ ਚੈਲੰਜ ਕਰੋ!",
+    "quizDescription": "ਆਪਣਾ ਗਿਆਨ ਟੈਸਟ ਕਰੋ ਅਤੇ ਦੇਖੋ ਤੁਸੀਂ ਕਿੰਨਾ ਵਧੀਆ ਕਰਦੇ ਹੋ!",
+    "previous": "ਪਿਛਲਾ",
+    "next": "ਅਗਲਾ",
+    "submitQuiz": "ਕੁਇਜ਼ ਜਮ੍ਹਾਂ ਕਰੋ",
+    "generateTest": "ਟੈਸਟ ਬਣਾਓ",
+    "createPersonalizedAssessment": "ਨਿੱਜੀਕ੍ਰਿਤ ਮੁਲਾਂਕਣ ਬਣਾਓ",
+    "enterTopicPlaceholder": "ਇੱਕ ਵਿਸ਼ਾ ਦਾਖਲ ਕਰੋ (ਜਿਵੇਂ React, Machine Learning)",
+    "generateNewAssessment": "ਨਵਾਂ ਮੁਲਾਂਕਣ ਬਣਾਓ",
+    "yourAssessments": "ਤੁਹਾਡੇ ਮੁਲਾਂਕਣ",
+    "trackLearningProgress": "ਆਪਣੀ ਸਿੱਖਣ ਦੀ ਪ੍ਰਗਤੀ ਨੂੰ ਟਰੈਕ ਕਰੋ",
+    "totalTests": "ਕੁੱਲ ਟੈਸਟ",
+    "noAssessmentsYet": "ਹਾਲੇ ਤੱਕ ਕੋਈ ਮੁਲਾਂਕਣ ਨਹੀਂ",
+    "startLearningJourney": "ਟੈਸਟ ਬਣਾ ਕੇ ਆਪਣੀ ਸਿੱਖਣ ਦੀ ਯਾਤਰਾ ਸ਼ੁਰੂ ਕਰੋ!",
+    "score": "ਸਕੋਰ",
+    "reattemptTest": "ਟੈਸਟ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ",
+    "errorFetchingAssessments": "ਮੁਲਾਂਕਣ ਲਿਆਉਣ ਵਿੱਚ ਗਲਤੀ",
+    "errorGeneratingAssessment": "ਮੁਲਾਂਕਣ ਬਣਾਉਣ ਵਿੱਚ ਗਲਤੀ",
+    "examReview": {
+        "title": "ਪ੍ਰੀਖਿਆ ਸਮੀਖਿਆ",
+        "yourScore": "ਤੁਹਾਡਾ ਸਕੋਰ",
+        "scoreSummary": "ਤੁਸੀਂ {{total}} ਵਿੱਚੋਂ {{correct}} ਸਵਾਲਾਂ ਦੇ ਸਹੀ ਜਵਾਬ ਦਿੱਤੇ",
+        "notAttempted": "ਕੋਸ਼ਿਸ਼ ਨਹੀਂ ਕੀਤੀ ਗਈ",
+        "noQuizData": "ਕੋਈ ਕੁਇਜ਼ ਡੇਟਾ ਉਪਲਬਧ ਨਹੀਂ",
+        "startNewQuiz": "ਕਿਰਪਾ ਕਰਕੇ ਮੁੱਖ ਪੰਨੇ ਤੋਂ ਨਵੀਂ ਕੁਇਜ਼ ਸ਼ੁਰੂ ਕਰੋ",
+        "backToHome": "ਮੁੱਖ ਪੰਨੇ 'ਤੇ ਵਾਪਸ ਜਾਓ"
+    },
+    "createCourse": {
+        "title": "ਕੋਰਸ ਬਣਾਓ",
+        "steps": {
+            "skills": "ਹੁਨਰ",
+            "topic": "ਵਿਸ਼ਾ ਅਤੇ ਵਰਣਨ",
+            "options": "ਵਿਕਲਪ",
+            "generated": "ਬਣਾਇਆ ਗਿਆ ਕੋਰਸ"
+        },
+        "skills": {
+            "title": "ਹੁਨਰ ਚੁਣੋ",
+            "addPlaceholder": "ਹੁਨਰ ਜੋੜੋ",
+            "addButton": "ਹੁਨਰ ਜੋੜੋ"
+        },
+        "topic": {
+            "title": "ਵਿਸ਼ਾ ਅਤੇ ਵਰਣਨ",
+            "topicPlaceholder": "ਵਿਸ਼ਾ",
+            "descriptionPlaceholder": "ਕੋਰਸ ਵਰਣਨ"
+        },
+        "options": {
+            "title": "ਵਿਕਲਪ",
+            "difficultyPlaceholder": "ਮੁਸ਼ਕਲਤਾ ਚੁਣੋ",
+            "difficulty": {
+                "basic": "ਬੁਨਿਆਦੀ",
+                "intermediate": "ਮੱਧਮ",
+                "advanced": "ਉੱਨਤ"
+            },
+            "durationPlaceholder": "ਮਿਆਦ",
+            "chaptersPlaceholder": "ਅਧਿਆਵਾਂ ਦੀ ਗਿਣਤੀ (1-5)"
+        },
+        "preview": {
+            "description": "ਵਰਣਨ",
+            "skills": "ਹੁਨਰ",
+            "level": "ਸਤਰ",
+            "duration": "ਮਿਆਦ",
+            "chapters": "ਅਧਿਆਵਾਂ ਦੀ ਗਿਣਤੀ",
+            "outcomes": "ਕੋਰਸ ਦੇ ਨਤੀਜੇ",
+            "chaptersTitle": "ਅਧਿਆਵਾਂ",
+            "chapterDuration": "ਮਿਆਦ",
+            "content": "ਅਧਿਆਇ ਸਮੱਗਰੀ"
+        },
+        "buttons": {
+            "backToCourses": "ਮੇਰੇ ਕੋਰਸਾਂ 'ਤੇ ਵਾਪਸ ਜਾਓ",
+            "back": "ਪਿਛਲਾ",
+            "next": "ਅਗਲਾ",
+            "generate": "ਬਣਾਓ",
+            "generating": "ਬਣ ਰਿਹਾ ਹੈ...",
+            "finish": "ਖਤਮ ਕਰੋ",
+            "finalizing": "ਅੰਤਿਮ ਰੂਪ ਦੇ ਰਿਹਾ ਹੈ..."
+        },
+        "success": {
+            "layoutGenerated": "ਕੋਰਸ ਲੇਆਉਟ ਸਫਲਤਾਪੂਰਵਕ ਬਣਾਇਆ ਗਿਆ!",
+            "courseCreated": "ਕੋਰਸ ਸਫਲਤਾਪੂਰਵਕ ਬਣਾਇਆ ਗਿਆ!",
+            "assignedCreated": "ਮਾਰਗਦਰਸ਼ਕ ਲਈ ਸੌਂਪਿਆ ਗਿਆ ਕੋਰਸ ਬਣਾਇਆ ਗਿਆ।"
+        },
+        "errors": {
+            "generateFailed": "ਕੋਰਸ ਲੇਆਉਟ ਬਣਾਉਣ ਵਿੱਚ ਅਸਫਲ",
+            "noChapters": "ਕਿਰਪਾ ਕਰਕੇ ਪਹਿਲਾਂ ਅਧਿਆਵਾਂ ਨਾਲ ਕੋਰਸ ਬਣਾਓ",
+            "chapterFailed": "ਅਧਿਆਇ ਲਈ ਸਮੱਗਰੀ ਲਿਆਉਣ ਵਿੱਚ ਅਸਫਲ: {{chapter}}",
+            "sessionExpired": "ਸੈਸ਼ਨ ਖਤਮ ਹੋ ਗਿਆ ਹੈ ਜਾਂ ਤੁਸੀਂ ਲੌਗਇਨ ਨਹੀਂ ਹੋ। ਕਿਰਪਾ ਕਰਕੇ ਦੁਬਾਰਾ ਲੌਗਇਨ ਕਰੋ।",
+            "noCourseId": "ਕੋਰਸ ਬਣਾਇਆ ਗਿਆ, ਪਰ ਕੋਰਸ ID ਪ੍ਰਾਪਤ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ",
+            "createFailed": "ਕੋਰਸ ਬਣਾਉਣ ਵਿੱਚ ਗਲਤੀ",
+            "saveFailed": "ਕੋਰਸ ਸੇਵ ਕਰਨ ਵਿੱਚ ਅਸਫਲ। ਕਿਰਪਾ ਕਰਕੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।",
+            "generationFailed": "ਕੋਰਸ ਬਣਾਉਣ ਵਿੱਚ ਗਲਤੀ। ਕਿਰਪਾ ਕਰਕੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।",
+            "assignFailed": "ਮਾਰਗਦਰਸ਼ਕ ਲਈ ਸੌਂਪਿਆ ਗਿਆ ਕੋਰਸ ਬਣਾਉਣ ਵਿੱਚ ਅਸਫਲ।",
+            "chapterError": "ਅਧਿਆਇ \"{{chapter}}\" ਲਈ ਸਮੱਗਰੀ ਬਣਾਉਣ ਵਿੱਚ ਗਲਤੀ"
+        },
+        "warnings": {
+            "chapterSkipped": "ਅਧਿਆਇ \"{{chapter}}\" ਲਈ ਸਮੱਗਰੀ ਬਣਾਉਣ ਵਿੱਚ ਅਸਫਲ। ਇਸ ਅਧਿਆਇ ਨੂੰ ਛੱਡ ਰਹੇ ਹਾਂ।"
+        }
+    },
+    "courseDetails": {
+        "loading": "ਕੋਰਸ ਵੇਰਵੇ ਲੋਡ ਹੋ ਰਹੇ ਹਨ...",
+        "translating": "ਸਮੱਗਰੀ ਦਾ ਅਨੁਵਾਦ ਹੋ ਰਿਹਾ ਹੈ...",
+        "description": "ਵਰਣਨ",
+        "skills": "ਹੁਨਰ",
+        "level": "ਸਤਰ",
+        "duration": "ਮਿਆਦ",
+        "outcomesTitle": "ਕੋਰਸ ਦੇ ਨਤੀਜੇ",
+        "chaptersTitle": "ਕੋਰਸ ਅਧਿਆਵਾਂ",
+        "about": "ਬਾਰੇ",
+        "assessmentTitle": "ਅੰਤਿਮ ਮੁਲਾਂਕਣ",
+        "finalAssessment": "ਅੰਤਿਮ ਮੁਲਾਂਕਣ",
+        "bestScore": "ਸਭ ਤੋਂ ਵਧੀਆ ਸਕੋਰ",
+        "completed": "ਪੂਰਾ ਹੋਇਆ",
+        "unlocked": "ਅਨਲੌਕ ਕੀਤਾ ਗਿਆ",
+        "locked": "ਲੌਕ ਕੀਤਾ ਗਿਆ",
+        "downloadCertificate": "ਸਰਟੀਫਿਕੇਟ ਡਾਊਨਲੋਡ ਕਰੋ",
+        "editTitle": "ਕੋਰਸ ਸੰਪਾਦਿਤ ਕਰੋ",
+        "buttons": {
+            "back": "ਪਿਛਲਾ",
+            "edit": "ਸੰਪਾਦਿਤ ਕਰੋ",
+            "save": "ਬਦਲਾਅ ਸੇਵ ਕਰੋ",
+            "cancel": "ਰੱਦ ਕਰੋ",
+            "addChapter": "ਅਧਿਆਇ ਜੋੜੋ"
+        },
+        "errors": {
+            "noToken": "ਕੋਈ ਪ੍ਰਮਾਣੀਕਰਨ ਟੋਕਨ ਨਹੀਂ ਮਿਲਿਆ",
+            "fetchFailed": "ਕੋਰਸ ਡੇਟਾ ਲਿਆਉਣ ਵਿੱਚ ਅਸਫਲ",
+            "fetchError": "ਕੋਰਸ ਡੇਟਾ ਲਿਆਉਣ ਵਿੱਚ ਗਲਤੀ:",
+            "updateFailed": "ਕੋਰਸ ਸਥਿਤੀ ਅਪਡੇਟ ਕਰਨ ਵਿੱਚ ਅਸਫਲ",
+            "updateError": "ਕੋਰਸ ਸਥਿਤੀ ਅਪਡੇਟ ਕਰਨ ਵਿੱਚ ਗਲਤੀ:",
+            "translationError": "ਸਮੱਗਰੀ ਦਾ ਅਨੁਵਾਦ ਕਰਨ ਵਿੱਚ ਗਲਤੀ:",
+            "assessmentError": "ਮੁਲਾਂਕਣ ਲਿਆਉਣ ਵਿੱਚ ਗਲਤੀ:",
+            "noAssessments": "ਇਸ ਕੋਰਸ ਲਈ ਕੋਈ ਮੁਲਾਂਕਣ ਨਹੀਂ ਮਿਲੇ"
+        },
+        "certificate": {
+            "title": "ਪੂਰਤੀ ਸਰਟੀਫਿਕੇਟ",
+            "certifyText": "ਇਹ ਪ੍ਰਮਾਣਿਤ ਕਰਦਾ ਹੈ ਕਿ",
+            "completedText": "ਨੇ ਕੋਰਸ ਸਫਲਤਾਪੂਰਵਕ ਪੂਰਾ ਕੀਤਾ ਹੈ",
+            "issuedOn": "ਜਾਰੀ ਕੀਤੀ ਤਾਰੀਖ:",
+            "issuedBy": "ਜਾਰੀ ਕਰਤਾ:"
+        }
+    },
+    "assessment": {
+        "title": "ਕੋਰਸ ਅੰਤ ਮੁਲਾਂਕਣ",
+        "subtitle": "ਕੋਰਸ ਪੂਰਾ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਆਪਣੇ ਗਿਆਨ ਦੀ ਜਾਂਚ ਕਰੋ",
+        "loading": "ਮੁਲਾਂਕਣ ਬਣ ਰਿਹਾ ਹੈ...",
+        "questionLabel": "ਸਵਾਲ",
+        "ofQuestions": "ਵਿੱਚੋਂ",
+        "questions": "ਸਵਾਲ",
+        "questionsTitle": "ਸਵਾਲ",
+        "progress": "ਤਰੱਕੀ",
+        "buttons": {
+            "previous": "ਪਿਛਲਾ",
+            "next": "ਅਗਲਾ",
+            "submit": "ਕੁਇਜ਼ ਜਮ੍ਹਾਂ ਕਰੋ"
+        },
+        "errors": {
+            "generateFailed": "ਕੋਰਸ ਅੰਤ ਮੁਲਾਂਕਣ ਬਣਾਉਣ ਵਿੱਚ ਗਲਤੀ:"
+        }
+    },
+    "projects": {
+        "title": "AI ਪ੍ਰੋਜੈਕਟ ਸਿਫਾਰਸ਼ਾਂ",
+        "subtitle": "ਕ੍ਰਿਤਰਮ ਬੁੱਧੀ ਦੀ ਸ਼ਕਤੀ ਨਾਲ ਨਵੀਨਤਮ ਪ੍ਰੋਜੈਕਟ ਵਿਚਾਰ ਖੋਜੋ",
+        "loading": "ਨਿੱਜੀਕ੍ਰਿਤ ਸਿਫਾਰਸ਼ਾਂ ਲੋਡ ਹੋ ਰਹੀਆਂ ਹਨ...",
+        "featuresTitle": "ਮੁੱਖ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ",
+        "filter": {
+            "title": "ਡੋਮੇਨ ਦੁਆਰਾ ਫਿਲਟਰ ਕਰੋ",
+            "all": "ਸਾਰੇ"
+        },
+        "buttons": {
+            "getRecommendations": "AI ਪ੍ਰੋਜੈਕਟ ਸਿਫਾਰਸ਼ਾਂ ਪ੍ਰਾਪਤ ਕਰੋ",
+            "loading": "ਸਿਫਾਰਸ਼ਾਂ ਲੋਡ ਹੋ ਰਹੀਆਂ ਹਨ..."
+        },
+        "empty": {
+            "title": "ਹਾਲੇ ਤੱਕ ਕੋਈ ਸਿਫਾਰਸ਼ਾਂ ਨਹੀਂ",
+            "message": "ਨਿੱਜੀਕ੍ਰਿਤ AI ਪ੍ਰੋਜੈਕਟ ਸਿਫਾਰਸ਼ਾਂ ਪ੍ਰਾਪਤ ਕਰਨ ਲਈ ਉੱਪਰ ਦਿੱਤੇ ਬਟਨ 'ਤੇ ਕਲਿੱਕ ਕਰੋ"
+        },
+        "errors": {
+            "notLoggedIn": "ਉਪਭੋਗਤਾ ਲੌਗਇਨ ਨਹੀਂ ਹੈ",
+            "fetchFailed": "ਪ੍ਰੋਜੈਕਟ ਸਿਫਾਰਸ਼ਾਂ ਲਿਆਉਣ ਵਿੱਚ ਗਲਤੀ:"
+        }
+    },
+    "sidebar": {
+        "appName": "ਏਥੇਨਾAI",
+        "guestName": "ਮਹਿਮਾਨ",
+        "guestInitial": "ਮ",
+        "guestEmail": "guest@example.com",
+        "logout": "ਲੌਗਆਉਟ",
+        "aria": {
+            "expand": "ਸਾਈਡਬਾਰ ਫੈਲਾਓ",
+            "collapse": "ਸਾਈਡਬਾਰ ਸਮੇਟੋ"
+        },
+        "items": {
+            "profile": "ਪ੍ਰੋਫਾਈਲ",
+            "courses": "ਕੋਰਸ",
+            "assessments": "ਮੁਲਾਂਕਣ",
+            "attendance": "ਹਾਜ਼ਰੀ",
+            "video": "ਵੀਡੀਓ ਕਾਨਫਰੰਸਿੰਗ",
+            "projects": "ਪ੍ਰੋਜੈਕਟ ਸਿਫਾਰਸ਼ਾਂ",
+            "schedule": "AI ਅਨੁਸੂਚੀ",
+            "coding": "ਕੋਡਿੰਗ",
+            "challenge": "ਆਪਣੇ ਆਪ ਨੂੰ ਚੁਣੌਤੀ ਦਿਓ",
+            "exams": "ਪ੍ਰੀਖਿਆਵਾਂ",
+            "interviews": "ਮੌਕ ਇੰਟਰਵਿਊ",
+            "internships": "ਇੰਟਰਨਸ਼ਿਪਸ"
+        }
+    },
+    "notes": {
+        "title": "ਨੋਟ ਵੇਖੋ",
+        "description": "ਵਿਆਪਕ, ਸੰਰਚਿਤ ਡਿਜੀਟਲ ਨੋਟਾਂ ਨਾਲ ਆਪਣੇ ਸਿੱਖਣ ਦੇ ਤਜ਼ਰਬੇ ਨੂੰ ਬਦਲੋ।",
+        "button": "ਨੋਟ ਵੇਖੋ"
+    },
+    "flashcards": {
+        "title": "ਫਲੈਸ਼ਕਾਰਡ ਵੇਖੋ",
+        "description": "ਇੰਟਰਐਕਟਿਵ, ਕਸਟਮ-ਜਨਰੇਟਡ ਫਲੈਸ਼ਕਾਰਡਾਂ ਨਾਲ ਆਪਣੀ ਯਾਦਦਾਸ਼ਤ ਨੂੰ ਵਧਾਓ।",
+        "button": "ਫਲੈਸ਼ਕਾਰਡ ਵੇਖੋ"
+    }
+}

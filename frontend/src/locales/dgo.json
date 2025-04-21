@@ -1,0 +1,245 @@
+{
+    "Welcome": "जी आये नु",
+    "Discover the power of AI with OdesseyAI": "OdysseyAI दे AI दी ताकत दी खोज करो",
+    "myCourses": {
+      "title": "मेरे कोर्स",
+      "createCourse": "कोर्स बनाओ",
+      "noCourses": "कोई कोर्स नहीं मिला",
+      "startJourney": "नया कोर्स बना के अपनी सीखने की यात्रा शुरू करो!"
+    },
+    "error": {
+      "fetchCourses": "कोर्स लाने में नाकाम"
+    },
+    "assignedCourses": {
+      "title": "मिले कोर्स",
+      "assignedMessage": "तुहाड़े नाल {{count}} कोर्स जुड़े हुए",
+      "noCourses": "कोई कोर्स नहीं मिला",
+      "waitingMessage": "तुहाड़े मेंटर ने अभी तक कोई कोर्स नहीं दिया",
+      "completed": "पूरा",
+      "assignedOn": "{{date}} नूं दिया गया",
+      "startLearning": "सीखना शुरू करो"
+    },
+    "courseLevels": {
+      "Basic": "शुरुआती",
+      "Intermediate": "बीच का",
+      "Advanced": "उन्नत"
+    },
+    "errorFetchingQuestions": "सवाल लाने में गड़बड़",
+    "errorUpdatingScore": "स्कोर अपडेट करने में गड़बड़",
+    "loadingQuiz": "क्विज लोड हो रही...",
+    "challengeQuiz": "इस क्विज नाल अपने आप नूं चैलेंज करो!",
+    "quizDescription": "अपनी जानकारी जांचो आर देखो कितना अच्छा कर सकदे ओ!",
+    "previous": "पिछला",
+    "next": "अगला",
+    "submitQuiz": "क्विज जमा करो",
+    "generateTest": "टेस्ट बनाओ",
+    "createPersonalizedAssessment": "अपने लिए खास टेस्ट बनाओ",
+    "enterTopicPlaceholder": "कोई विषय लिखो (जैसे, React, Machine Learning)",
+    "generateNewAssessment": "नया टेस्ट बनाओ",
+    "yourAssessments": "तुहाड़े टेस्ट",
+    "trackLearningProgress": "अपनी सीखने की प्रगति ट्रैक करो",
+    "totalTests": "कुल टेस्ट",
+    "noAssessmentsYet": "अभी तक कोई टेस्ट नहीं",
+    "startLearningJourney": "टेस्ट बना के अपनी सीखने की यात्रा शुरू करो!",
+    "score": "स्कोर",
+    "reattemptTest": "टेस्ट फिर से करो",
+    "errorFetchingAssessments": "टेस्ट लाने में गड़बड़",
+    "errorGeneratingAssessment": "टेस्ट बनाने में गड़बड़",
+    "examReview": {
+      "title": "टेस्ट रिव्यू",
+      "yourScore": "तुहाड़ा स्कोर",
+      "scoreSummary": "तुस {{total}} सवालां च {{correct}} सवालां दा सही जवाब दित्ता",
+      "notAttempted": "कोशिश नहीं की",
+      "noQuizData": "कोई क्विज डाटा नहीं मिला",
+      "startNewQuiz": "होम पेज तों नई क्विज शुरू करो",
+      "backToHome": "होम पर वापस जाओ"
+    },
+    "createCourse": {
+      "title": "कोर्स बनाओ",
+      "steps": {
+        "skills": "हुनर",
+        "topic": "विषय आर विवरण",
+        "options": "विकल्प",
+        "generated": "बना कोर्स"
+      },
+      "skills": {
+        "title": "हुनर चुनो",
+        "addPlaceholder": "हुनर जोड़ो",
+        "addButton": "जोड़ो"
+      },
+      "topic": {
+        "title": "विषय आर विवरण",
+        "topicPlaceholder": "विषय",
+        "descriptionPlaceholder": "कोर्स दा विवरण"
+      },
+      "options": {
+        "title": "विकल्प",
+        "difficultyPlaceholder": "कठिनाई चुनो",
+        "difficulty": {
+          "basic": "शुरुआती",
+          "intermediate": "बीच का",
+          "advanced": "उन्नत"
+        },
+        "durationPlaceholder": "समय",
+        "chaptersPlaceholder": "अध्याय गिनती (1-5)"
+      },
+      "preview": {
+        "description": "विवरण",
+        "skills": "हुनर",
+        "level": "स्तर",
+        "duration": "समय",
+        "chapters": "अध्याय गिनती",
+        "outcomes": "कोर्स नतीजे",
+        "chaptersTitle": "अध्याय",
+        "chapterDuration": "समय",
+        "content": "अध्याय विषय"
+      },
+      "buttons": {
+        "backToCourses": "मेरे कोर्स पर वापस जाओ",
+        "back": "पिछला",
+        "next": "अगला",
+        "generate": "बनाओ",
+        "generating": "बना रहा...",
+        "finish": "खतम करो",
+        "finalizing": "आखिरी कर रहा..."
+      },
+      "success": {
+        "layoutGenerated": "कोर्स लेआउट बना लिया!",
+        "courseCreated": "कोर्स बना लिया!",
+        "assignedCreated": "मेंटर ले कोर्स दे दिया।"
+      },
+      "errors": {
+        "generateFailed": "कोर्स लेआउट बनाने में नाकाम",
+        "noChapters": "पहले अध्याय वाला कोर्स बनाओ",
+        "chapterFailed": "अध्याय ले विषय लाने में नाकाम: {{chapter}}",
+        "sessionExpired": "सेशन खतम या लॉगिन नहीं। फिर से लॉगिन करो।",
+        "noCourseId": "कोर्स बना लिया, पर कोर्स ID नहीं मिला",
+        "createFailed": "कोर्स बनाने में गड़बड़",
+        "saveFailed": "कोर्स सेव करने में नाकाम। फिर से कोशिश करो।",
+        "generationFailed": "कोर्स बनाने में गड़बड़। फिर से कोशिश करो।",
+        "assignFailed": "मेंटर ले कोर्स देने में नाकाम।",
+        "chapterError": "अध्याय \"{{chapter}}\" ले विषय बनाने में गड़बड़"
+      },
+      "warnings": {
+        "chapterSkipped": "अध्याय \"{{chapter}}\" ले विषय बनाने में नाकाम। इस अध्याय नूं छोड़ दिया।"
+      }
+    },
+    "courseDetails": {
+      "loading": "कोर्स विवरण लोड हो रहा...",
+      "translating": "विषय अनुवाद हो रहा...",
+      "description": "विवरण",
+      "skills": "हुनर",
+      "level": "स्तर",
+      "duration": "समय",
+      "outcomesTitle": "कोर्स नतीजे",
+      "chaptersTitle": "कोर्स अध्याय",
+      "about": "बारे",
+      "assessmentTitle": "आखिरी टेस्ट",
+      "finalAssessment": "आखिरी टेस्ट",
+      "bestScore": "सबसे अच्छा स्कोर",
+      "completed": "पूरा",
+      "unlocked": "खुला",
+      "locked": "बंद",
+      "downloadCertificate": "सर्टिफिकेट डाउनलोड करो",
+      "editTitle": "कोर्स एडिट करो",
+      "buttons": {
+        "back": "पिछला",
+        "edit": "एडिट करो",
+        "save": "बदलाव सेव करो",
+        "cancel": "कैंसिल करो",
+        "addChapter": "अध्याय जोड़ो"
+      },
+      "errors": {
+        "noToken": "कोई प्रमाणीकरण टोकन नहीं मिला",
+        "fetchFailed": "कोर्स डाटा लाने में नाकाम",
+        "fetchError": "कोर्स डाटा लाने में गड़बड़:",
+        "updateFailed": "कोर्स स्टेटस अपडेट करने में नाकाम",
+        "updateError": "कोर्स स्टेटस अपडेट करने में गड़बड़:",
+        "translationError": "विषय अनुवाद करने में गड़बड़:",
+        "assessmentError": "टेस्ट लाने में गड़बड़:",
+        "noAssessments": "इस कोर्स ले कोई टेस्ट नहीं मिला"
+      },
+      "certificate": {
+        "title": "पूरा करने दा सर्टिफिकेट",
+        "certifyText": "इस नाल प्रमाणित किया जांदा कि",
+        "completedText": "ने कोर्स सफलता नाल पूरा किया",
+        "issuedOn": "जारी करने दी तारीख:",
+        "issuedBy": "जारी किया:"
+      }
+    },
+    "assessment": {
+      "title": "कोर्स दा आखिरी टेस्ट",
+      "subtitle": "कोर्स पूरा करने तों पहले अपनी जानकारी जांचो",
+      "loading": "टेस्ट बना रहा...",
+      "questionLabel": "सवाल",
+      "ofQuestions": "दा",
+      "questions": "सवाल",
+      "questionsTitle": "सवाल",
+      "progress": "प्रगति",
+      "buttons": {
+        "previous": "पिछला",
+        "next": "अगला",
+        "submit": "क्विज जमा करो"
+      },
+      "errors": {
+        "generateFailed": "कोर्स दा आखिरी टेस्ट बनाने में गड़बड़:"
+      }
+    },
+    "projects": {
+      "title": "AI प्रोजेक्ट सुझाव",
+      "subtitle": "AI नाल चलने वाले नए प्रोजेक्ट आइडिया ढूंढो",
+      "loading": "तुहाड़े ले सुझाव लाने लोड हो रहा...",
+      "featuresTitle": "मुख्य विशेषताएं",
+      "filter": {
+        "title": "डोमेन अनुसार फिल्टर करो",
+        "all": "सब"
+      },
+      "buttons": {
+        "getRecommendations": "AI प्रोजेक्ट सुझाव पाओ",
+        "loading": "सुझाव लोड हो रहे..."
+      },
+      "empty": {
+        "title": "अभी तक कोई सुझाव नहीं",
+        "message": "अपने लिए AI प्रोजेक्ट सुझाव पाने ले ऊपर दिए बटन तों क्लिक करो।"
+      },
+      "errors": {
+        "notLoggedIn": "यूजर लॉगिन नहीं",
+        "fetchFailed": "प्रोजेक्ट सुझाव लाने में गड़बड़:"
+      }
+    },
+    "sidebar": {
+      "appName": "एथेनाAI",
+      "guestName": "मेहमान",
+      "guestInitial": "म",
+      "guestEmail": "मेहमान@उदाहरण.कॉम",
+      "logout": "लॉग आउट",
+      "aria": {
+        "expand": "साइडबार खोलो",
+        "collapse": "साइडबार बंद करो"
+      },
+      "items": {
+        "profile": "प्रोफाइल",
+        "courses": "कोर्स",
+        "assessments": "टेस्ट",
+        "attendance": "हाजिरी",
+        "video": "वीडियो कॉन्फ्रेंसिंग",
+        "projects": "प्रोजेक्ट सुझाव",
+        "schedule": "AI समयसारणी",
+        "coding": "कोडिंग",
+        "challenge": "अपने आप नूँ चुनौती दयो",
+        "exams": "परीक्षा",
+        "interviews": "मॉक इंटरव्यू",
+        "internships": "इंटर्नशिप"
+      }
+    },
+    "notes": {
+      "title": "नोट देखो",
+      "description": "विस्तृत, संरचित डिजिटल नोट दे कन्नै अप्पें सिखण दा अनुभव बदलो।",
+      "button": "नोट देखो"
+    },
+    "flashcards": {
+      "title": "फ्लैशकार्ड देखो",
+      "description": "इंटरैक्टिव, कस्टम-जनरेटेड फ्लैशकार्ड दे कन्नै अप्पी याददाश्त बढ़ाओ।",
+      "button": "फ्लैशकार्ड देखो"
+    }
+  }

@@ -1,0 +1,245 @@
+{
+    "Welcome": "स्वागत आहे",
+    "Discover the power of AI with OdesseyAI": "ओडिसीAI सह AI ची शक्ती शोधा",
+    "myCourses": {
+        "title": "माझे अभ्यासक्रम",
+        "createCourse": "अभ्यासक्रम तयार करा",
+        "noCourses": "कोणतेही अभ्यासक्रम सापडले नाहीत",
+        "startJourney": "नवीन अभ्यासक्रम तयार करून आपले शिक्षण सुरू करा!"
+    },
+    "error": {
+        "fetchCourses": "अभ्यासक्रम मिळविण्यात अयशस्वी"
+    },
+    "assignedCourses": {
+        "title": "नियुक्त केलेले अभ्यासक्रम",
+        "assignedMessage": "{{count}} अभ्यासक्रम{{count !== 1 ? ' ' : ''}} तुम्हाला नियुक्त केले आहेत",
+        "noCourses": "कोणतेही नियुक्त केलेले अभ्यासक्रम नाहीत",
+        "waitingMessage": "तुमच्या मार्गदर्शकाने तुम्हाला अद्याप कोणतेही अभ्यासक्रम नियुक्त केलेले नाहीत.",
+        "completed": "पूर्ण झाले",
+        "assignedOn": "{{date}} रोजी नियुक्त केले",
+        "startLearning": "शिकणे सुरू करा"
+    },
+    "courseLevels": {
+        "Basic": "प्राथमिक",
+        "Intermediate": "मध्यम",
+        "Advanced": "प्रगत"
+    },
+    "errorFetchingQuestions": "प्रश्न मिळविण्यात त्रुटी",
+    "errorUpdatingScore": "गुण अद्यतनित करण्यात त्रुटी",
+    "loadingQuiz": "प्रश्नोत्तरी लोड होत आहे...",
+    "challengeQuiz": "या प्रश्नोत्तरीसह स्वतःला आव्हान द्या!",
+    "quizDescription": "तुमचे ज्ञान तपासा आणि तुम्ही किती चांगले करता ते पहा!",
+    "previous": "मागील",
+    "next": "पुढील",
+    "submitQuiz": "प्रश्नोत्तरी सबमिट करा",
+    "generateTest": "चाचणी निर्माण करा",
+    "createPersonalizedAssessment": "वैयक्तिकृत मूल्यांकन तयार करा",
+    "enterTopicPlaceholder": "एक विषय प्रविष्ट करा (उदा. React, Machine Learning)",
+    "generateNewAssessment": "नवीन मूल्यांकन निर्माण करा",
+    "yourAssessments": "तुमची मूल्यांकने",
+    "trackLearningProgress": "तुमच्या शिक्षणाची प्रगती ट्रॅक करा",
+    "totalTests": "एकूण चाचण्या",
+    "noAssessmentsYet": "अद्याप कोणतीही मूल्यांकने नाहीत",
+    "startLearningJourney": "चाचणी निर्माण करून तुमचे शिक्षण सुरू करा!",
+    "score": "गुण",
+    "reattemptTest": "चाचणी पुन्हा प्रयत्न करा",
+    "errorFetchingAssessments": "मूल्यांकने मिळविण्यात त्रुटी",
+    "errorGeneratingAssessment": "मूल्यांकन निर्माण करण्यात त्रुटी",
+    "examReview": {
+        "title": "परीक्षा पुनरावलोकन",
+        "yourScore": "तुमचे गुण",
+        "scoreSummary": "तुम्ही {{total}} पैकी {{correct}} प्रश्नांना योग्य उत्तर दिले",
+        "notAttempted": "प्रयत्न केला नाही",
+        "noQuizData": "प्रश्नोत्तरी डेटा उपलब्ध नाही",
+        "startNewQuiz": "कृपया मुख्यपृष्ठावरून नवीन प्रश्नोत्तरी सुरू करा",
+        "backToHome": "मुख्यपृष्ठावर परत जा"
+    },
+    "createCourse": {
+        "title": "अभ्यासक्रम तयार करा",
+        "steps": {
+            "skills": "कौशल्ये",
+            "topic": "विषय आणि वर्णन",
+            "options": "पर्याय",
+            "generated": "निर्मित अभ्यासक्रम"
+        },
+        "skills": {
+            "title": "कौशल्ये निवडा",
+            "addPlaceholder": "कौशल्य जोडा",
+            "addButton": "कौशल्य जोडा"
+        },
+        "topic": {
+            "title": "विषय आणि वर्णन",
+            "topicPlaceholder": "विषय",
+            "descriptionPlaceholder": "अभ्यासक्रम वर्णन"
+        },
+        "options": {
+            "title": "पर्याय",
+            "difficultyPlaceholder": "अडचण निवडा",
+            "difficulty": {
+                "basic": "प्राथमिक",
+                "intermediate": "मध्यम",
+                "advanced": "प्रगत"
+            },
+            "durationPlaceholder": "कालावधी",
+            "chaptersPlaceholder": "प्रकरणांची संख्या (1-5)"
+        },
+        "preview": {
+            "description": "वर्णन",
+            "skills": "कौशल्ये",
+            "level": "स्तर",
+            "duration": "कालावधी",
+            "chapters": "प्रकरणांची संख्या",
+            "outcomes": "अभ्यासक्रम परिणाम",
+            "chaptersTitle": "प्रकरणे",
+            "chapterDuration": "कालावधी",
+            "content": "प्रकरण सामग्री"
+        },
+        "buttons": {
+            "backToCourses": "माझ्या अभ्यासक्रमांवर परत जा",
+            "back": "मागे",
+            "next": "पुढे",
+            "generate": "निर्माण करा",
+            "generating": "निर्माण होत आहे...",
+            "finish": "समाप्त करा",
+            "finalizing": "अंतिम रूप देत आहे..."
+        },
+        "success": {
+            "layoutGenerated": "अभ्यासक्रम लेआउट यशस्वीरित्या निर्माण केला!",
+            "courseCreated": "अभ्यासक्रम यशस्वीरित्या तयार केला!",
+            "assignedCreated": "मार्गदर्शकासाठी नियुक्त अभ्यासक्रम तयार केला."
+        },
+        "errors": {
+            "generateFailed": "अभ्यासक्रम लेआउट निर्माण करण्यात अयशस्वी",
+            "noChapters": "कृपया प्रथम प्रकरणांसह अभ्यासक्रम निर्माण करा",
+            "chapterFailed": "प्रकरणासाठी सामग्री मिळविण्यात अयशस्वी: {{chapter}}",
+            "sessionExpired": "सत्र कालबाह्य झाले किंवा तुम्ही लॉग इन केलेले नाही. कृपया पुन्हा लॉग इन करा.",
+            "noCourseId": "अभ्यासक्रम तयार झाला, परंतु अभ्यासक्रम आयडी मिळू शकली नाही",
+            "createFailed": "अभ्यासक्रम तयार करण्यात त्रुटी",
+            "saveFailed": "अभ्यासक्रम जतन करण्यात अयशस्वी. कृपया पुन्हा प्रयत्न करा.",
+            "generationFailed": "अभ्यासक्रम निर्माण करण्यात त्रुटी. कृपया पुन्हा प्रयत्न करा.",
+            "assignFailed": "मार्गदर्शकासाठी नियुक्त अभ्यासक्रम तयार करण्यात अयशस्वी.",
+            "chapterError": "प्रकरण \"{{chapter}}\" साठी सामग्री निर्माण करण्यात त्रुटी"
+        },
+        "warnings": {
+            "chapterSkipped": "प्रकरण \"{{chapter}}\" साठी सामग्री निर्माण करण्यात अयशस्वी. हे प्रकरण वगळत आहे."
+        }
+    },
+    "courseDetails": {
+        "loading": "अभ्यासक्रम तपशील लोड होत आहेत...",
+        "translating": "सामग्री भाषांतरित केली जात आहे...",
+        "description": "वर्णन",
+        "skills": "कौशल्ये",
+        "level": "स्तर",
+        "duration": "कालावधी",
+        "outcomesTitle": "अभ्यासक्रम परिणाम",
+        "chaptersTitle": "अभ्यासक्रम प्रकरणे",
+        "about": "विषयी",
+        "assessmentTitle": "अंतिम मूल्यांकन",
+        "finalAssessment": "अंतिम मूल्यांकन",
+        "bestScore": "सर्वोत्तम गुण",
+        "completed": "पूर्ण झाले",
+        "unlocked": "अनलॉक केले",
+        "locked": "लॉक केले",
+        "downloadCertificate": "प्रमाणपत्र डाउनलोड करा",
+        "editTitle": "अभ्यासक्रम संपादित करा",
+        "buttons": {
+            "back": "मागे",
+            "edit": "संपादित करा",
+            "save": "बदल जतन करा",
+            "cancel": "रद्द करा",
+            "addChapter": "प्रकरण जोडा"
+        },
+        "errors": {
+            "noToken": "प्रमाणीकरण टोकन सापडले नाही",
+            "fetchFailed": "अभ्यासक्रम डेटा मिळविण्यात अयशस्वी",
+            "fetchError": "अभ्यासक्रम डेटा मिळविण्यात त्रुटी:",
+            "updateFailed": "अभ्यासक्रम स्थिती अद्यतनित करण्यात अयशस्वी",
+            "updateError": "अभ्यासक्रम स्थिती अद्यतनित करण्यात त्रुटी:",
+            "translationError": "सामग्री भाषांतर करण्यात त्रुटी:",
+            "assessmentError": "मूल्यांकने मिळविण्यात त्रुटी:",
+            "noAssessments": "या अभ्यासक्रमासाठी कोणतीही मूल्यांकने सापडली नाहीत"
+        },
+        "certificate": {
+            "title": "पूर्णता प्रमाणपत्र",
+            "certifyText": "हे प्रमाणपत्र साक्ष देते की",
+            "completedText": "ने यशस्वीरित्या अभ्यासक्रम पूर्ण केला",
+            "issuedOn": "जारी केल्याची तारीख:",
+            "issuedBy": "जारीकर्ता:"
+        }
+    },
+    "assessment": {
+        "title": "अभ्यासक्रम समाप्ती मूल्यांकन",
+        "subtitle": "अभ्यासक्रम पूर्ण करण्यापूर्वी तुमचे ज्ञान तपासा",
+        "loading": "मूल्यांकन निर्माण होत आहे...",
+        "questionLabel": "प्रश्न",
+        "ofQuestions": "पैकी",
+        "questions": "प्रश्न",
+        "questionsTitle": "प्रश्न",
+        "progress": "प्रगती",
+        "buttons": {
+            "previous": "मागील",
+            "next": "पुढील",
+            "submit": "प्रश्नोत्तरी सबमिट करा"
+        },
+        "errors": {
+            "generateFailed": "अभ्यासक्रम समाप्ती मूल्यांकन निर्माण करण्यात त्रुटी:"
+        }
+    },
+    "projects": {
+        "title": "AI प्रकल्प शिफारसी",
+        "subtitle": "कृत्रिम बुद्धिमत्तेच्या साहाय्याने नावीन्यपूर्ण प्रकल्प कल्पना शोधा",
+        "loading": "वैयक्तिकृत शिफारसी मिळवत आहे...",
+        "featuresTitle": "मुख्य वैशिष्ट्ये",
+        "filter": {
+            "title": "डोमेननुसार फिल्टर करा",
+            "all": "सर्व"
+        },
+        "buttons": {
+            "getRecommendations": "AI प्रकल्प शिफारसी मिळवा",
+            "loading": "शिफारसी लोड होत आहेत..."
+        },
+        "empty": {
+            "title": "अद्याप कोणत्याही शिफारसी नाहीत",
+            "message": "वैयक्तिकृत AI प्रकल्प शिफारसी मिळविण्यासाठी वरील बटणावर क्लिक करा"
+        },
+        "errors": {
+            "notLoggedIn": "वापरकर्ता लॉग इन केलेला नाही",
+            "fetchFailed": "प्रकल्प शिफारसी मिळविण्यात त्रुटी:"
+        }
+    },
+    "sidebar": {
+        "appName": "अथेनाAI",
+        "guestName": "पाहुणे",
+        "guestInitial": "प",
+        "guestEmail": "guest@example.com",
+        "logout": "लॉगआउट",
+        "aria": {
+            "expand": "साइडबार विस्तृत करा",
+            "collapse": "साइडबार संकुचित करा"
+        },
+        "items": {
+            "profile": "प्रोफाइल",
+            "courses": "अभ्यासक्रम",
+            "assessments": "मूल्यांकने",
+            "attendance": "हजेरी",
+            "video": "व्हिडिओ संभाषण",
+            "projects": "प्रकल्प शिफारसी",
+            "schedule": "AI वेळापत्रक",
+            "coding": "कोडिंग",
+            "challenge": "स्वतःला आव्हान द्या",
+            "exams": "परीक्षा",
+            "interviews": "मॉक मुलाखती",
+            "internships": "इंटर्नशिप"
+        }
+    },
+    "notes": {
+        "title": "नोट्स पहा",
+        "description": "विस्तृत, संरचित डिजिटल नोट्ससह तुमच्या शिकण्याच्या अनुभवाचे रूपांतर करा.",
+        "button": "नोट्स पहा"
+    },
+    "flashcards": {
+        "title": "फ्लॅशकार्ड्स पहा",
+        "description": "इंटरॅक्टिव, कस्टम-जनरेटेड फ्लॅशकार्ड्ससह तुमची स्मरणशक्ती वाढवा.",
+        "button": "फ्लॅशकार्ड्स पहा"
+    }
+}

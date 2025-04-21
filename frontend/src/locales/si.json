@@ -1,0 +1,245 @@
+{
+    "Welcome": "ආයුබෝවන්",
+    "Discover the power of AI with AthenaAI": "AthenaAI සමඟ AI හි බලය අනාවරණය කරන්න",
+    "myCourses": {
+        "title": "මගේ පාඨමාලා",
+        "createCourse": "පාඨමාලාව සාදන්න",
+        "noCourses": "පාඨමාලා හමු නොවීය",
+        "startJourney": "නව පාඨමාලාවක් සාදා ඔබගේ ඉගෙනුම් ගමන ආරම්භ කරන්න!"
+    },
+    "error": {
+        "fetchCourses": "පාඨමාලා ලබා ගැනීමට අසමත් විය"
+    },
+    "assignedCourses": {
+        "title": "නියමිත පාඨමාලා",
+        "assignedMessage": "ඔබට {{count}} පාඨමාලාව{{count !== 1 ? 'ක්' : ''}} නියම කර ඇත",
+        "noCourses": "නියමිත පාඨමාලා නොමැත",
+        "waitingMessage": "ඔබගේ මාර්ගදර්ශකයා තවමත් ඔබට පාඨමාලා නියම කර නැත.",
+        "completed": "සම්පූර්ණයි",
+        "assignedOn": "{{date}} දින නියම කරන ලදී",
+        "startLearning": "ඉගෙනීම ආරම්භ කරන්න"
+    },
+    "courseLevels": {
+        "Basic": "මූලික",
+        "Intermediate": "මධ්යම",
+        "Advanced": "උසස්"
+    },
+    "errorFetchingQuestions": "ප්‍රශ්න ලබා ගැනීමේ දෝෂය",
+    "errorUpdatingScore": "ලකුණු යාවත්කාලීන කිරීමේ දෝෂය",
+    "loadingQuiz": "විභාගය පූරණය වෙමින්...",
+    "challengeQuiz": "මෙම විභාගය සමඟ ඔබව පරීක්ෂා කරන්න!",
+    "quizDescription": "ඔබගේ දැනුම පරීක්ෂා කර ඔබ කෙතරම් හොඳින් කරයිදැයි බලන්න!",
+    "previous": "පෙර",
+    "next": "ඊළඟ",
+    "submitQuiz": "විභාගය ඉදිරිපත් කරන්න",
+    "generateTest": "පරීක්ෂණය ජනනය කරන්න",
+    "createPersonalizedAssessment": "පුද්ගලීකෘත ඇගයීමක් සාදන්න",
+    "enterTopicPlaceholder": "තේමාවක් ඇතුළත් කරන්න (උදා: React, යන්ත්‍ර ඉගෙනුම)",
+    "generateNewAssessment": "නව ඇගයීමක් ජනනය කරන්න",
+    "yourAssessments": "ඔබගේ ඇගයීම්",
+    "trackLearningProgress": "ඔබගේ ඉගෙනුම් ප්‍රගතිය අවධානය කරන්න",
+    "totalTests": "සම්පූර්ණ පරීක්ෂණ",
+    "noAssessmentsYet": "තවමත් ඇගයීම් නැත",
+    "startLearningJourney": "පරීක්ෂණයක් ජනනය කිරීමෙන් ඔබගේ ඉගෙනුම් ගමන ආරම්භ කරන්න!",
+    "score": "ලකුණු",
+    "reattemptTest": "පරීක්ෂණය නැවත උත්සාහ කරන්න",
+    "errorFetchingAssessments": "ඇගයීම් ලබා ගැනීමේ දෝෂය",
+    "errorGeneratingAssessment": "ඇගයීම ජනනය කිරීමේ දෝෂය",
+    "examReview": {
+        "title": "විභාග සමාලෝචනය",
+        "yourScore": "ඔබගේ ලකුණු",
+        "scoreSummary": "ඔබ {{total}} ප්‍රශ්න වලින් {{correct}} ක් නිවැරදිව පිළිතුරු දුන්නා",
+        "notAttempted": "උත්සාහ නොකළා",
+        "noQuizData": "විභාග දත්ත නොමැත",
+        "startNewQuiz": "කරුණාකර මුල් පිටුවෙන් නව විභාගයක් ආරම්භ කරන්න",
+        "backToHome": "මුල් පිටුවට ආපසු"
+    },
+    "createCourse": {
+        "title": "පාඨමාලාව සාදන්න",
+        "steps": {
+            "skills": "නිපුණතා",
+            "topic": "තේමාව සහ විස්තරය",
+            "options": "විකල්ප",
+            "generated": "ජනනය කළ පාඨමාලාව"
+        },
+        "skills": {
+            "title": "නිපුණතා තෝරන්න",
+            "addPlaceholder": "නිපුණතාව එක් කරන්න",
+            "addButton": "නිපුණතාව එක් කරන්න"
+        },
+        "topic": {
+            "title": "තේමාව සහ විස්තරය",
+            "topicPlaceholder": "තේමාව",
+            "descriptionPlaceholder": "පාඨමාලා විස්තරය"
+        },
+        "options": {
+            "title": "විකල්ප",
+            "difficultyPlaceholder": "දුෂ්කරතාව තෝරන්න",
+            "difficulty": {
+                "basic": "මූලික",
+                "intermediate": "මධ්යම",
+                "advanced": "උසස්"
+            },
+            "durationPlaceholder": "කාල සීමාව",
+            "chaptersPlaceholder": "පරිච්ඡේද ගණන (1-5)"
+        },
+        "preview": {
+            "description": "විස්තරය",
+            "skills": "නිපුණතා",
+            "level": "මට්ටම",
+            "duration": "කාල සීමාව",
+            "chapters": "පරිච්ඡේද ගණන",
+            "outcomes": "පාඨමාලා ප්‍රතිඵල",
+            "chaptersTitle": "පරිච්ඡේද",
+            "chapterDuration": "කාල සීමාව",
+            "content": "පරිච්ඡේද අන්තර්ගතය"
+        },
+        "buttons": {
+            "backToCourses": "මගේ පාඨමාලා වෙත ආපසු",
+            "back": "ආපසු",
+            "next": "ඊළඟ",
+            "generate": "ජනනය කරන්න",
+            "generating": "ජනනය වෙමින්...",
+            "finish": "අවසන් කරන්න",
+            "finalizing": "අවසන් කිරීම..."
+        },
+        "success": {
+            "layoutGenerated": "පාඨමාලා පිරිසැලසුම සාර්ථකව ජනනය කරන ලදී!",
+            "courseCreated": "පාඨමාලාව සාර්ථකව සාදන ලදී!",
+            "assignedCreated": "මාර්ගදර්ශකයා සඳහා පාඨමාලාව නියම කරන ලදී."
+        },
+        "errors": {
+            "generateFailed": "පාඨමාලා පිරිසැලසුම ජනනය කිරීමට අසමත් විය",
+            "noChapters": "කරුණාකර පළමුව පරිච්ඡේද සහිත පාඨමාලාවක් ජනනය කරන්න",
+            "chapterFailed": "පරිච්ඡේදය සඳහා අන්තර්ගතය ලබා ගැනීමට අසමත් විය: {{chapter}}",
+            "sessionExpired": "සැසිය කල් ඉකුත් වී ඇති අතර හෝ ඔබ ඇතුළු වී නැත. කරුණාකර නැවත ඇතුළු වන්න.",
+            "noCourseId": "පාඨමාලාව සාදන ලදී, නමුත් පාඨමාලා හැඳුනුම්පත ලබා ගැනීමට නොහැකි විය",
+            "createFailed": "පාඨමාලාව සාදන විට දෝෂයක්",
+            "saveFailed": "පාඨමාලාව සුරැකීමට අසමත් විය. කරුණාකර නැවත උත්සාහ කරන්න.",
+            "generationFailed": "පාඨමාලාව ජනනය කිරීමේ දෝෂය. කරුණාකර නැවත උත්සාහ කරන්න.",
+            "assignFailed": "මාර්ගදර්ශකයා සඳහා පාඨමාලාව නියම කිරීමට අසමත් විය.",
+            "chapterError": "පරිච්ඡේදය සඳහා අන්තර්ගතය ජනනය කිරීමේ දෝෂය \"{{chapter}}\""
+        },
+        "warnings": {
+            "chapterSkipped": "\"{{chapter}}\" පරිච්ඡේදය සඳහා අන්තර්ගතය ජනනය කිරීමට අසමත් විය. මෙම පරිච්ඡේදය මඟ හරිනු ලැබේ."
+        }
+    },
+    "courseDetails": {
+        "loading": "පාඨමාලා විස්තර පූරණය වෙමින්...",
+        "translating": "අන්තර්ගතය පරිවර්තනය වෙමින්...",
+        "description": "විස්තරය",
+        "skills": "නිපුණතා",
+        "level": "මට්ටම",
+        "duration": "කාල සීමාව",
+        "outcomesTitle": "පාඨමාලා ප්‍රතිඵල",
+        "chaptersTitle": "පාඨමාලා පරිච්ඡේද",
+        "about": "පිළිබඳව",
+        "assessmentTitle": "අවසන් ඇගයීම",
+        "finalAssessment": "අවසන් ඇගයීම",
+        "bestScore": "හොඳම ලකුණු",
+        "completed": "සම්පූර්ණයි",
+        "unlocked": "අගුලු ඇරී",
+        "locked": "අගුලු දමා ඇත",
+        "downloadCertificate": "සහතිකය බාගන්න",
+        "editTitle": "පාඨමාලාව සංස්කරණය කරන්න",
+        "buttons": {
+            "back": "ආපසු",
+            "edit": "සංස්කරණය",
+            "save": "වෙනස්කම් සුරකින්න",
+            "cancel": "අවලංගු කරන්න",
+            "addChapter": "පරිච්ඡේදය එක් කරන්න"
+        },
+        "errors": {
+            "noToken": "සත්‍යාපන ටෝකනය හමු නොවීය",
+            "fetchFailed": "පාඨමාලා දත්ත ලබා ගැනීමට අසමත් විය",
+            "fetchError": "පාඨමාලා දත්ත ලබා ගැනීමේ දෝෂය:",
+            "updateFailed": "පාඨමාලා තත්ත්වය යාවත්කාලීන කිරීමට අසමත් විය",
+            "updateError": "පාඨමාලා තත්ත්වය යාවත්කාලීන කිරීමේ දෝෂය:",
+            "translationError": "අන්තර්ගතය පරිවර්තනය කිරීමේ දෝෂය:",
+            "assessmentError": "ඇගයීම් ලබා ගැනීමේ දෝෂය:",
+            "noAssessments": "මෙම පාඨමාලාව සඳහා ඇගයීම් හමු නොවීය"
+        },
+        "certificate": {
+            "title": "සම්පූර්ණ කිරීමේ සහතිකය",
+            "certifyText": "මෙය සහතික කරන්නේ",
+            "completedText": "පාඨමාලාව සාර්ථකව සම්පූර්ණ කර ඇති බවයි",
+            "issuedOn": "නිකුත් කළ දිනය:",
+            "issuedBy": "නිකුත් කළේ:"
+        }
+    },
+    "assessment": {
+        "title": "පාඨමාලා අවසන් ඇගයීම",
+        "subtitle": "පාඨමාලාව සම්පූර්ණ කිරීමට පෙර ඔබගේ දැනුම පරීක්ෂා කරන්න",
+        "loading": "ඇගයීම ජනනය වෙමින්...",
+        "questionLabel": "ප්‍රශ්නය",
+        "ofQuestions": "යන්නෙන්",
+        "questions": "ප්‍රශ්න",
+        "questionsTitle": "ප්‍රශ්න",
+        "progress": "ප්‍රගතිය",
+        "buttons": {
+            "previous": "පෙර",
+            "next": "ඊළඟ",
+            "submit": "විභාගය ඉදිරිපත් කරන්න"
+        },
+        "errors": {
+            "generateFailed": "පාඨමාලා අවසන් ඇගයීම ජනනය කිරීමේ දෝෂය:"
+        }
+    },
+    "projects": {
+        "title": "AI ව්‍යාපෘති නිර්දේශ",
+        "subtitle": "කෘතිම බුද්ධියෙන් බලගැන්වුණු නවෝත්පාදන ව්‍යාපෘති අදහස් අනාවරණය කරන්න",
+        "loading": "පුද්ගලීකෘත නිර්දේශ ලබා ගැනීම...",
+        "featuresTitle": "ප්‍රධාන විශේෂාංග",
+        "filter": {
+            "title": "වසම අනුව පෙරහන් කරන්න",
+            "all": "සියල්ල"
+        },
+        "buttons": {
+            "getRecommendations": "AI ව්‍යාපෘති නිර්දේශ ලබා ගන්න",
+            "loading": "නිර්දේශ පූරණය වෙමින්..."
+        },
+        "empty": {
+            "title": "තවමත් නිර්දේශ නැත",
+            "message": "පුද්ගලීකෘත AI ව්‍යාපෘති නිර්දේශ ලබා ගැනීමට ඉහත බොත්තම ක්ලික් කරන්න."
+        },
+        "errors": {
+            "notLoggedIn": "පරිශීලකයා ඇතුළු වී නැත",
+            "fetchFailed": "ව්‍යාපෘති නිර්දේශ ලබා ගැනීමේ දෝෂය:"
+        }
+    },
+    "sidebar": {
+        "appName": "AthenaAI",
+        "guestName": "අමුත්තා",
+        "guestInitial": "අ",
+        "guestEmail": "guest@example.com",
+        "logout": "පිටවීම",
+        "aria": {
+            "expand": "පැති තීරුව පුළුල් කරන්න",
+            "collapse": "පැති තීරුව හකුළන්න"
+        },
+        "items": {
+            "profile": "පැතිකඩ",
+            "courses": "පාඨමාලා",
+            "assessments": "ඇගයීම්",
+            "attendance": "පැමිණීම",
+            "video": "වීඩියෝ සාකච්ඡා",
+            "projects": "ව්‍යාපෘති නිර්දේශ",
+            "schedule": "AI කාලසටහන",
+            "coding": "කේතනය",
+            "challenge": "ᱵᱤᱫᱤᱭᱟᱹᱨ ᱮᱢ ᱥᱟᱹᱵᱟᱨ",
+            "exams": "විභාග",
+            "interviews": "පරික්ෂණ සාකච්ඡා",
+            "internships": "අත්දැකීම්"
+        }
+    },
+    "notes": {
+        "title": "සටහන් බලන්න",
+        "description": "විස්තීර්ණ, ව්යුහගත ඩිජිටල් සටහන් සමඟ ඔබගේ ඉගෙනීමේ අත්දැකීම පරිවර්තනය කරන්න.",
+        "button": "සටහන් බලන්න"
+    },
+    "flashcards": {
+        "title": "ෆ්ලෑෂ් කාඩ් බලන්න",
+        "description": "අන්තර්ක්රියාකාරී, අභිරුචි-ජනනය කළ ෆ්ලෑෂ් කාඩ් සමඟ ඔබගේ මතක බලය වැඩි කරන්න.",
+        "button": "ෆ්ලෑෂ් කාඩ් බලන්න"
+    }
+}

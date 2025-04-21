@@ -1,0 +1,245 @@
+{
+    "Welcome": "स्वागत",
+    "Discover the power of AI with OdesseyAI": "ओडेसीएआय हांवां आय.ए.ची शक्त उपेग करची",
+    "myCourses": {
+        "title": "म्हजे कोर्स",
+        "createCourse": "कोर्स तयार करचो",
+        "noCourses": "कोर्स मेळ्ळे नात",
+        "startJourney": "नवो कोर्स तयार करून तुमचो अभ्यास सुरू करचो!"
+    },
+    "error": {
+        "fetchCourses": "कोर्स मेळोवपांत त्रुटी"
+    },
+    "assignedCourses": {
+        "title": "दिल्ले कोर्स",
+        "assignedMessage": "{{count}} कोर्स{{count !== 1 ? ' ' : ''}} तुमकां दिल्ले",
+        "noCourses": "दिल्ले कोर्स नात",
+        "waitingMessage": "तुमच्या मार्गदर्शकान तुमकां अजून कोर्स दिल्ले नात.",
+        "completed": "पुराय जाल्ले",
+        "assignedOn": "{{date}} ह्या दिसा दिल्ले",
+        "startLearning": "अभ्यास सुरू करचो"
+    },
+    "courseLevels": {
+        "Basic": "मुळावे",
+        "Intermediate": "मध्यम",
+        "Advanced": "प्रगत"
+    },
+    "errorFetchingQuestions": "प्रश्न मेळोवपांत त्रुटी",
+    "errorUpdatingScore": "स्कोर अपडेट करपांत त्रुटी",
+    "loadingQuiz": "क्विझ लोड जाता...",
+    "challengeQuiz": "ह्या क्विझ हांवां आपलो सामना करचो!",
+    "quizDescription": "आपलें ज्ञान तपासून पळयात आपूण कितें बरें करतात!",
+    "previous": "फाटलें",
+    "next": "फुडलें",
+    "submitQuiz": "क्विझ सबमीट करची",
+    "generateTest": "चाचणी तयार करची",
+    "createPersonalizedAssessment": "वैयक्तिक मूल्यांकन तयार करचें",
+    "enterTopicPlaceholder": "विषय बरोवचो (उदा. रिऍक्ट, मशीन लर्निंग)",
+    "generateNewAssessment": "नवें मूल्यांकन तयार करचें",
+    "yourAssessments": "तुमचीं मूल्यांकनां",
+    "trackLearningProgress": "तुमच्या अभ्यासाची प्रगती पळयात",
+    "totalTests": "एकूण चाचण्यो",
+    "noAssessmentsYet": "अजून मूल्यांकनां नात",
+    "startLearningJourney": "चाचणी तयार करून तुमचो अभ्यास सुरू करचो!",
+    "score": "स्कोर",
+    "reattemptTest": "चाचणी परतून करची",
+    "errorFetchingAssessments": "मूल्यांकनां मेळोवपांत त्रुटी",
+    "errorGeneratingAssessment": "मूल्यांकन तयार करपांत त्रुटी",
+    "examReview": {
+        "title": "परीक्षा पुनरावलोकन",
+        "yourScore": "तुमचो स्कोर",
+        "scoreSummary": "तुमी {{total}} प्रश्नांतल्यान {{correct}} प्रश्नांक योग्य उत्तर दिलां",
+        "notAttempted": "चेटप केल्लें ना",
+        "noQuizData": "क्विझ डेटा मेळ्ळो ना",
+        "startNewQuiz": "कृपया मुखेल पानावयल्यान नवो क्विझ सुरू करात",
+        "backToHome": "मुखेल पानाक वचचें"
+    },
+    "createCourse": {
+        "title": "कोर्स तयार करचो",
+        "steps": {
+            "skills": "कौशल्य",
+            "topic": "विषय आनी वर्णन",
+            "options": "विकल्प",
+            "generated": "तयार केल्लो कोर्स"
+        },
+        "skills": {
+            "title": "कौशल्य निवडात",
+            "addPlaceholder": "कौशल्य जोडचें",
+            "addButton": "कौशल्य जोडात"
+        },
+        "topic": {
+            "title": "विषय आनी वर्णन",
+            "topicPlaceholder": "विषय",
+            "descriptionPlaceholder": "कोर्स वर्णन"
+        },
+        "options": {
+            "title": "विकल्प",
+            "difficultyPlaceholder": "कठीण पातळी निवडात",
+            "difficulty": {
+                "basic": "मुळावे",
+                "intermediate": "मध्यम",
+                "advanced": "प्रगत"
+            },
+            "durationPlaceholder": "कालावधी",
+            "chaptersPlaceholder": "प्रकरणांची संख्या (1-5)"
+        },
+        "preview": {
+            "description": "वर्णन",
+            "skills": "कौशल्य",
+            "level": "पातळी",
+            "duration": "कालावधी",
+            "chapters": "प्रकरणांची संख्या",
+            "outcomes": "कोर्स परिणाम",
+            "chaptersTitle": "प्रकरणां",
+            "chapterDuration": "कालावधी",
+            "content": "प्रकरणाचो मजकूर"
+        },
+        "buttons": {
+            "backToCourses": "म्हज्या कोर्साक वचचें",
+            "back": "फाटलें",
+            "next": "फुडलें",
+            "generate": "तयार करचें",
+            "generating": "तयार जाता...",
+            "finish": "समाप्त करचें",
+            "finalizing": "अंतिम रुप दिता..."
+        },
+        "success": {
+            "layoutGenerated": "कोर्स लेआउट यशस्वीरित्या तयार जाल्ले!",
+            "courseCreated": "कोर्स यशस्वीरित्या तयार जाल्ले!",
+            "assignedCreated": "मार्गदर्शकाखातीर नियुक्त कोर्स तयार जाल्ले."
+        },
+        "errors": {
+            "generateFailed": "कोर्स लेआउट तयार करपांत अपयश",
+            "noChapters": "कृपया पयलीं प्रकरणां आशिल्लो कोर्स तयार करात",
+            "chapterFailed": "प्रकरणाखातीर मजकूर मेळोवपांत अपयश: {{chapter}}",
+            "sessionExpired": "सत्र समाप्त जाल्ले वा तुमी लॉगिन केल्ले नात. कृपया परतून लॉगिन करात.",
+            "noCourseId": "कोर्स तयार जाल्ले, पूण कोर्स आयडी मेळोवपांत अपयश",
+            "createFailed": "कोर्स तयार करपांत त्रुटी",
+            "saveFailed": "कोर्स साठोवपांत अपयश. कृपया परतून यत्न करात.",
+            "generationFailed": "कोर्स तयार करपांत त्रुटी. कृपया परतून यत्न करात.",
+            "assignFailed": "मार्गदर्शकाखातीर नियुक्त कोर्स तयार करपांत अपयश.",
+            "chapterError": "प्रकरण \"{{chapter}}\" खातीर मजकूर तयार करपांत त्रुटी"
+        },
+        "warnings": {
+            "chapterSkipped": "प्रकरण \"{{chapter}}\" खातीर मजकूर तयार करपांत अपयश. हे प्रकरण वगळतात."
+        }
+    },
+    "courseDetails": {
+        "loading": "कोर्स तपशील लोड जाता...",
+        "translating": "मजकूर उलोवप जाता...",
+        "description": "वर्णन",
+        "skills": "कौशल्य",
+        "level": "पातळी",
+        "duration": "कालावधी",
+        "outcomesTitle": "कोर्स परिणाम",
+        "chaptersTitle": "कोर्स प्रकरणां",
+        "about": "विशीं",
+        "assessmentTitle": "अंतिम मूल्यांकन",
+        "finalAssessment": "अंतिम मूल्यांकन",
+        "bestScore": "उत्कृष्ट स्कोर",
+        "completed": "पुराय जाल्ले",
+        "unlocked": "अनलॉक केल्ले",
+        "locked": "लॉक केल्ले",
+        "downloadCertificate": "प्रमाणपत्र डाउनलोड करचें",
+        "editTitle": "कोर्स संपादीत करचो",
+        "buttons": {
+            "back": "फाटलें",
+            "edit": "संपादीत करचें",
+            "save": "बदल साठोवचे",
+            "cancel": "रद्द करचें",
+            "addChapter": "प्रकरण जोडचें"
+        },
+        "errors": {
+            "noToken": "प्रमाणीकरण टोकन मेळ्ळे ना",
+            "fetchFailed": "कोर्स डेटा मेळोवपांत अपयश",
+            "fetchError": "कोर्स डेटा मेळोवपांत त्रुटी:",
+            "updateFailed": "कोर्स स्थिती अपडेट करपांत अपयश",
+            "updateError": "कोर्स स्थिती अपडेट करपांत त्रुटी:",
+            "translationError": "मजकूर उलोवपांत त्रुटी:",
+            "assessmentError": "मूल्यांकनां मेळोवपांत त्रुटी:",
+            "noAssessments": "ह्या कोर्साखातीर मूल्यांकनां मेळ्ळीं ना"
+        },
+        "certificate": {
+            "title": "पूर्णतेचें प्रमाणपत्र",
+            "certifyText": "हें प्रमाणीकरण करता",
+            "completedText": "ह्या कोर्साचो यशस्वीरित्या पुराय केल्ले",
+            "issuedOn": "जारी केल्ली तारीख:",
+            "issuedBy": "जारी करपी:"
+        }
+    },
+    "assessment": {
+        "title": "कोर्स अंत मूल्यांकन",
+        "subtitle": "कोर्स पुराय करचे आदीं आपलें ज्ञान तपासात",
+        "loading": "मूल्यांकन तयार जाता...",
+        "questionLabel": "प्रश्न",
+        "ofQuestions": "पैकी",
+        "questions": "प्रश्न",
+        "questionsTitle": "प्रश्न",
+        "progress": "प्रगती",
+        "buttons": {
+            "previous": "फाटलें",
+            "next": "फुडलें",
+            "submit": "क्विझ सबमीट करची"
+        },
+        "errors": {
+            "generateFailed": "कोर्स अंत मूल्यांकन तयार करपांत त्रुटी:"
+        }
+    },
+    "projects": {
+        "title": "एआय प्रकल्प शिफारस",
+        "subtitle": "कृत्रिम बुद्धिमत्तेच्या साह्यान नवे प्रकल्प शोधात",
+        "loading": "वैयक्तिक शिफारसी मेळोवन घेतात...",
+        "featuresTitle": "मुखेल वैशिष्ट्यां",
+        "filter": {
+            "title": "डोमेन प्रमाणे फिल्टर करचें",
+            "all": "सगळें"
+        },
+        "buttons": {
+            "getRecommendations": "एआय प्रकल्प शिफारसी मेळयात",
+            "loading": "शिफारसी लोड जातात..."
+        },
+        "empty": {
+            "title": "अजून शिफारसी नात",
+            "message": "वैयक्तिक एआय प्रकल्प शिफारसी मेळोवपाखातीर वयलें बटण क्लिक करात."
+        },
+        "errors": {
+            "notLoggedIn": "वापरपी लॉगिन केल्ले नात",
+            "fetchFailed": "प्रकल्प शिफारसी मेळोवपांत त्रुटी:"
+        }
+    },
+    "sidebar": {
+        "appName": "एथेनाAI",
+        "guestName": "पाहुणो",
+        "guestInitial": "पा",
+        "guestEmail": "guest@example.com",
+        "logout": "लॉग आउट",
+        "aria": {
+            "expand": "साइडबार विस्तार करचो",
+            "collapse": "साइडबार बंद करचो"
+        },
+        "items": {
+            "profile": "प्रोफाइल",
+            "courses": "कोर्स",
+            "assessments": "मूल्यांकनां",
+            "attendance": "हजेरी",
+            "video": "व्हिडिओ संभाषण",
+            "projects": "प्रकल्प शिफारसी",
+            "schedule": "एआय वेळापत्रक",
+            "coding": "कोडिंग",
+            "challenge": "तुमका आपलो आव्हान दियात",
+            "exams": "परीक्षा",
+            "interviews": "मॉक मुलाखती",
+            "internships": "इंटर्नशिप"
+        }
+    },
+    "notes": {
+        "title": "टिपणी पळयात",
+        "description": "विस्तृत, संरचीत डिजिटल टिपणींनी आपल्या शिकपाचो अनुभव बदलात.",
+        "button": "टिपणी पळयात"
+    },
+    "flashcards": {
+        "title": "फ्लॅशकार्ड पळयात",
+        "description": "इंटरॅक्टिव, कस्टम-जनरेटेड फ्लॅशकार्डांनी आपली स्मरणशक्त वाडयात.",
+        "button": "फ्लॅशकार्ड पळयात"
+    }
+}

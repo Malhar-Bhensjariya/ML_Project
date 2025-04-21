@@ -1,0 +1,245 @@
+{
+    "Welcome": "স্বাগতম",
+    "Discover the power of AI with OdesseyAI": "ওডিসি এআই এর মাধ্যমে কৃত্রিম বুদ্ধিমত্তার শক্তি আবিষ্কার করুন",
+    "myCourses": {
+      "title": "আমার কোর্সসমূহ",
+      "createCourse": "কোর্স তৈরি করুন",
+      "noCourses": "কোন কোর্স পাওয়া যায়নি",
+      "startJourney": "একটি নতুন কোর্স তৈরি করে আপনার শেখার যাত্রা শুরু করুন!"
+    },
+    "error": {
+      "fetchCourses": "কোর্স আনতে ব্যর্থ"
+    },
+    "assignedCourses": {
+      "title": "নির্ধারিত কোর্সসমূহ",
+      "assignedMessage": "আপনাকে {{count}}টি কোর্স নির্ধারণ করা হয়েছে",
+      "noCourses": "কোন নির্ধারিত কোর্স নেই",
+      "waitingMessage": "আপনার মেন্টর এখনো আপনাকে কোন কোর্স নির্ধারণ করেননি।",
+      "completed": "সম্পূর্ণ",
+      "assignedOn": "{{date}} তারিখে নির্ধারিত",
+      "startLearning": "শেখা শুরু করুন"
+    },
+    "courseLevels": {
+      "Basic": "প্রাথমিক",
+      "Intermediate": "মধ্যবর্তী",
+      "Advanced": "উন্নত"
+    },
+    "errorFetchingQuestions": "প্রশ্ন আনতে ত্রুটি",
+    "errorUpdatingScore": "স্কোর আপডেট করতে ত্রুটি",
+    "loadingQuiz": "কুইজ লোড হচ্ছে...",
+    "challengeQuiz": "এই কুইজ দিয়ে নিজেকে চ্যালেঞ্জ করুন!",
+    "quizDescription": "আপনার জ্ঞান পরীক্ষা করুন এবং দেখুন কতটা ভালো করতে পারেন!",
+    "previous": "পূর্ববর্তী",
+    "next": "পরবর্তী",
+    "submitQuiz": "কুইজ জমা দিন",
+    "generateTest": "পরীক্ষা তৈরি করুন",
+    "createPersonalizedAssessment": "একটি ব্যক্তিগতকৃত মূল্যায়ন তৈরি করুন",
+    "enterTopicPlaceholder": "একটি বিষয় লিখুন (যেমন, রিয়েক্ট, মেশিন লার্নিং)",
+    "generateNewAssessment": "নতুন মূল্যায়ন তৈরি করুন",
+    "yourAssessments": "আপনার মূল্যায়নসমূহ",
+    "trackLearningProgress": "আপনার শেখার অগ্রগতি ট্র্যাক করুন",
+    "totalTests": "মোট পরীক্ষা",
+    "noAssessmentsYet": "এখনো কোন মূল্যায়ন নেই",
+    "startLearningJourney": "একটি পরীক্ষা তৈরি করে আপনার শেখার যাত্রা শুরু করুন!",
+    "score": "স্কোর",
+    "reattemptTest": "পরীক্ষা পুনরায় চেষ্টা করুন",
+    "errorFetchingAssessments": "মূল্যায়ন আনতে ত্রুটি",
+    "errorGeneratingAssessment": "মূল্যায়ন তৈরি করতে ত্রুটি",
+    "examReview": {
+      "title": "পর্যালোচনা",
+      "yourScore": "আপনার স্কোর",
+      "scoreSummary": "আপনি মোট {{total}}টি প্রশ্নের মধ্যে {{correct}}টির সঠিক উত্তর দিয়েছেন",
+      "notAttempted": "চেষ্টা করা হয়নি",
+      "noQuizData": "কোন কুইজ ডেটা পাওয়া যায়নি",
+      "startNewQuiz": "হোম পেজ থেকে একটি নতুন কুইজ শুরু করুন",
+      "backToHome": "হোমে ফিরে যান"
+    },
+    "createCourse": {
+      "title": "কোর্স তৈরি করুন",
+      "steps": {
+        "skills": "দক্ষতা",
+        "topic": "বিষয় এবং বিবরণ",
+        "options": "অপশনসমূহ",
+        "generated": "তৈরি কোর্স"
+      },
+      "skills": {
+        "title": "দক্ষতা নির্বাচন করুন",
+        "addPlaceholder": "দক্ষতা যোগ করুন",
+        "addButton": "যোগ করুন"
+      },
+      "topic": {
+        "title": "বিষয় এবং বিবরণ",
+        "topicPlaceholder": "বিষয়",
+        "descriptionPlaceholder": "কোর্সের বিবরণ"
+      },
+      "options": {
+        "title": "অপশনসমূহ",
+        "difficultyPlaceholder": "কঠোরতা নির্বাচন করুন",
+        "difficulty": {
+          "basic": "প্রাথমিক",
+          "intermediate": "মধ্যবর্তী",
+          "advanced": "উন্নত"
+        },
+        "durationPlaceholder": "সময়সীমা",
+        "chaptersPlaceholder": "অধ্যায় সংখ্যা (১-৫)"
+      },
+      "preview": {
+        "description": "বিবরণ",
+        "skills": "দক্ষতা",
+        "level": "স্তর",
+        "duration": "সময়সীমা",
+        "chapters": "অধ্যায় সংখ্যা",
+        "outcomes": "কোর্সের ফলাফল",
+        "chaptersTitle": "অধ্যায়সমূহ",
+        "chapterDuration": "সময়সীমা",
+        "content": "অধ্যায়ের বিষয়বস্তু"
+      },
+      "buttons": {
+        "backToCourses": "আমার কোর্সে ফিরে যান",
+        "back": "পিছনে",
+        "next": "পরবর্তী",
+        "generate": "তৈরি করুন",
+        "generating": "তৈরি করা হচ্ছে...",
+        "finish": "শেষ করুন",
+        "finalizing": "চূড়ান্ত করা হচ্ছে..."
+      },
+      "success": {
+        "layoutGenerated": "কোর্স লেআউট সফলভাবে তৈরি করা হয়েছে!",
+        "courseCreated": "কোর্স সফলভাবে তৈরি করা হয়েছে!",
+        "assignedCreated": "মেন্টরের জন্য নির্ধারিত কোর্স তৈরি করা হয়েছে।"
+      },
+      "errors": {
+        "generateFailed": "কোর্স লেআউট তৈরি করতে ব্যর্থ",
+        "noChapters": "অনুগ্রহ করে প্রথমে অধ্যায় সহ একটি কোর্স তৈরি করুন",
+        "chapterFailed": "অধ্যায়ের জন্য বিষয়বস্তু আনতে ব্যর্থ: {{chapter}}",
+        "sessionExpired": "সেশন মেয়াদ শেষ বা আপনি লগইন করেননি। অনুগ্রহ করে পুনরায় লগইন করুন।",
+        "noCourseId": "কোর্স তৈরি করা হয়েছে, কিন্তু কোর্স আইডি পাওয়া যায়নি",
+        "createFailed": "কোর্স তৈরি করতে ত্রুটি",
+        "saveFailed": "কোর্স সংরক্ষণ করতে ব্যর্থ। অনুগ্রহ করে পুনরায় চেষ্টা করুন।",
+        "generationFailed": "কোর্স তৈরি করতে ত্রুটি। অনুগ্রহ করে পুনরায় চেষ্টা করুন।",
+        "assignFailed": "মেন্টরের জন্য নির্ধারিত কোর্স তৈরি করতে ব্যর্থ।",
+        "chapterError": "অধ্যায় \"{{chapter}}\" এর জন্য বিষয়বস্তু তৈরি করতে ত্রুটি"
+      },
+      "warnings": {
+        "chapterSkipped": "অধ্যায় \"{{chapter}}\" এর জন্য বিষয়বস্তু তৈরি করতে ব্যর্থ। এই অধ্যায়টি এড়িয়ে যাওয়া হচ্ছে।"
+      }
+    },
+    "courseDetails": {
+      "loading": "কোর্স বিবরণ লোড হচ্ছে...",
+      "translating": "বিষয়বস্তু অনুবাদ করা হচ্ছে...",
+      "description": "বিবরণ",
+      "skills": "দক্ষতা",
+      "level": "স্তর",
+      "duration": "সময়সীমা",
+      "outcomesTitle": "কোর্সের ফলাফল",
+      "chaptersTitle": "কোর্সের অধ্যায়সমূহ",
+      "about": "সম্পর্কে",
+      "assessmentTitle": "চূড়ান্ত মূল্যায়ন",
+      "finalAssessment": "চূড়ান্ত মূল্যায়ন",
+      "bestScore": "সেরা স্কোর",
+      "completed": "সম্পূর্ণ",
+      "unlocked": "আনলক করা হয়েছে",
+      "locked": "লক করা",
+      "downloadCertificate": "সার্টিফিকেট ডাউনলোড করুন",
+      "editTitle": "কোর্স সম্পাদনা করুন",
+      "buttons": {
+        "back": "পিছনে",
+        "edit": "সম্পাদনা করুন",
+        "save": "পরিবর্তন সংরক্ষণ করুন",
+        "cancel": "বাতিল করুন",
+        "addChapter": "অধ্যায় যোগ করুন"
+      },
+      "errors": {
+        "noToken": "কোন প্রমাণীকরণ টোকেন পাওয়া যায়নি",
+        "fetchFailed": "কোর্স ডেটা আনতে ব্যর্থ",
+        "fetchError": "কোর্স ডেটা আনতে ত্রুটি:",
+        "updateFailed": "কোর্স অবস্থা আপডেট করতে ব্যর্থ",
+        "updateError": "কোর্স অবস্থা আপডেট করতে ত্রুটি:",
+        "translationError": "বিষয়বস্তু অনুবাদ করতে ত্রুটি:",
+        "assessmentError": "মূল্যায়ন আনতে ত্রুটি:",
+        "noAssessments": "এই কোর্সের জন্য কোন মূল্যায়ন পাওয়া যায়নি"
+      },
+      "certificate": {
+        "title": "সমাপ্তির সার্টিফিকেট",
+        "certifyText": "এটি দ্বারা প্রত্যয়িত করা হয় যে",
+        "completedText": "সফলভাবে কোর্সটি সম্পন্ন করেছে",
+        "issuedOn": "জারি করা হয়েছে:",
+        "issuedBy": "জারি করেছেন:"
+      }
+    },
+    "assessment": {
+      "title": "কোর্সের শেষ মূল্যায়ন",
+      "subtitle": "কোর্স সম্পূর্ণ করার আগে আপনার জ্ঞান পরীক্ষা করুন",
+      "loading": "মূল্যায়ন তৈরি করা হচ্ছে...",
+      "questionLabel": "প্রশ্ন",
+      "ofQuestions": "এর",
+      "questions": "টি প্রশ্ন",
+      "questionsTitle": "প্রশ্নসমূহ",
+      "progress": "অগ্রগতি",
+      "buttons": {
+        "previous": "পূর্ববর্তী",
+        "next": "পরবর্তী",
+        "submit": "কুইজ জমা দিন"
+      },
+      "errors": {
+        "generateFailed": "কোর্সের শেষ মূল্যায়ন তৈরি করতে ত্রুটি:"
+      }
+    },
+    "projects": {
+      "title": "এআই প্রকল্পের সুপারিশসমূহ",
+      "subtitle": "কৃত্রিম বুদ্ধিমত্তার মাধ্যমে চালিত উদ্ভাবনী প্রকল্পের ধারণা আবিষ্কার করুন",
+      "loading": "ব্যক্তিগতকৃত সুপারিশ আনতে লোড হচ্ছে...",
+      "featuresTitle": "প্রধান বৈশিষ্ট্যসমূহ",
+      "filter": {
+        "title": "ডোমেইন অনুযায়ী ফিল্টার করুন",
+        "all": "সকল"
+      },
+      "buttons": {
+        "getRecommendations": "এআই প্রকল্পের সুপারিশ পান",
+        "loading": "সুপারিশ লোড হচ্ছে..."
+      },
+      "empty": {
+        "title": "এখনো কোন সুপারিশ নেই",
+        "message": "ব্যক্তিগতকৃত এআই প্রকল্পের সুপারিশ পেতে উপরের বাটনে ক্লিক করুন।"
+      },
+      "errors": {
+        "notLoggedIn": "ব্যবহারকারী লগইন করেননি",
+        "fetchFailed": "প্রকল্প সুপারিশ আনতে ত্রুটি:"
+      }
+    },
+    "sidebar": {
+      "appName": "অ্যাথেনাAI",
+      "guestName": "অতিথি",
+      "guestInitial": "অ",
+      "guestEmail": "অতিথি@উদাহরণ.কম",
+      "logout": "লগআউট",
+      "aria": {
+        "expand": "সাইডবার প্রসারিত করুন",
+        "collapse": "সাইডবার সংকুচিত করুন"
+      },
+      "items": {
+        "profile": "প্রোফাইল",
+        "courses": "কোর্সসমূহ",
+        "assessments": "মূল্যায়নসমূহ",
+        "attendance": "উপস্থিতি",
+        "video": "ভিডিও কনফারেন্সিং",
+        "projects": "প্রকল্পের সুপারিশ",
+        "schedule": "এআই সময়সূচী",
+        "coding": "কোডিং",
+        "challenge": "নিজেকে চ্যালেঞ্জ করুন",
+        "exams": "পরীক্ষাসমূহ",
+        "interviews": "মক ইন্টারভিউ",
+        "internships": "ইন্টার্নশিপ"
+      }
+    },
+    "notes": {
+      "title": "নোট দেখুন",
+      "description": "সম্পূর্ণ, কাঠামোগত ডিজিটাল নোট দিয়ে আপনার শেখার অভিজ্ঞতা রূপান্তর করুন।",
+      "button": "নোট দেখুন"
+    },
+    "flashcards": {
+      "title": "ফ্ল্যাশকার্ড দেখুন",
+      "description": "ইন্টারেক্টিভ, কাস্টম-জেনারেটেড ফ্ল্যাশকার্ড দিয়ে আপনার স্মৃতিশক্তি বাড়ান।",
+      "button": "ফ্ল্যাশকার্ড দেখুন"
+    }
+  }

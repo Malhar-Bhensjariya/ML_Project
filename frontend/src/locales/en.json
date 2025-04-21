@@ -1,0 +1,245 @@
+{
+    "Welcome": "Welcome",
+    "Discover the power of AI with AthenaAI": "Discover the power of AI with AthenaAI",
+    "myCourses": {
+        "title": "My Courses",
+        "createCourse": "Create Course",
+        "noCourses": "No courses found",
+        "startJourney": "Start your learning journey by creating a new course!"
+    },
+    "error": {
+        "fetchCourses": "Failed to fetch courses"
+    },
+    "assignedCourses": {
+        "title": "Assigned Courses",
+        "assignedMessage": "{{count}} course{{count !== 1 ? 's' : ''}} assigned to you",
+        "noCourses": "No assigned courses",
+        "waitingMessage": "Your mentor hasn't assigned any courses to you yet.",
+        "completed": "Completed",
+        "assignedOn": "Assigned on {{date}}",
+        "startLearning": "Start Learning"
+    },
+    "courseLevels": {
+        "Basic": "Basic",
+        "Intermediate": "Intermediate",
+        "Advanced": "Advanced"
+    },
+    "errorFetchingQuestions": "Error fetching questions",
+    "errorUpdatingScore": "Error updating score",
+    "loadingQuiz": "Loading Quiz...",
+    "challengeQuiz": "Challenge Yourself with this Quiz!",
+    "quizDescription": "Test your knowledge and see how well you do!",
+    "previous": "Previous",
+    "next": "Next",
+    "submitQuiz": "Submit Quiz",
+    "generateTest": "Generate Test",
+    "createPersonalizedAssessment": "Create a personalized assessment",
+    "enterTopicPlaceholder": "Enter a topic (e.g., React, Machine Learning)",
+    "generateNewAssessment": "Generate New Assessment",
+    "yourAssessments": "Your Assessments",
+    "trackLearningProgress": "Track your learning progress",
+    "totalTests": "Total Tests",
+    "noAssessmentsYet": "No assessments yet",
+    "startLearningJourney": "Start your learning journey by generating a test!",
+    "score": "Score",
+    "reattemptTest": "Reattempt Test",
+    "errorFetchingAssessments": "Error fetching assessments",
+    "errorGeneratingAssessment": "Error generating assessment",
+    "examReview": {
+        "title": "Exam Review",
+        "yourScore": "Your Score",
+        "scoreSummary": "You answered {{correct}} out of {{total}} questions correctly",
+        "notAttempted": "Not Attempted",
+        "noQuizData": "No quiz data available",
+        "startNewQuiz": "Please start a new quiz from the home page",
+        "backToHome": "Back to Home"
+    },
+    "createCourse": {
+        "title": "Create Course",
+        "steps": {
+        "skills": "Skills",
+        "topic": "Topic and Description",
+        "options": "Options",
+        "generated": "Generated Course"
+        },
+        "skills": {
+        "title": "Select Skills",
+        "addPlaceholder": "Add skill",
+        "addButton": "Add Skill"
+        },
+        "topic": {
+        "title": "Topic & Description",
+        "topicPlaceholder": "Topic",
+        "descriptionPlaceholder": "Course Description"
+        },
+        "options": {
+        "title": "Options",
+        "difficultyPlaceholder": "Select Difficulty",
+        "difficulty": {
+            "basic": "Basic",
+            "intermediate": "Intermediate",
+            "advanced": "Advanced"
+        },
+        "durationPlaceholder": "Duration",
+        "chaptersPlaceholder": "No. of Chapters (1-5)"
+        },
+        "preview": {
+        "description": "Description",
+        "skills": "Skills",
+        "level": "Level",
+        "duration": "Duration",
+        "chapters": "Number of Chapters",
+        "outcomes": "Course Outcomes",
+        "chaptersTitle": "Chapters",
+        "chapterDuration": "Duration",
+        "content": "Chapter Content"
+        },
+        "buttons": {
+        "backToCourses": "Back to My Courses",
+        "back": "Back",
+        "next": "Next",
+        "generate": "Generate",
+        "generating": "Generating...",
+        "finish": "Finish",
+        "finalizing": "Finalizing..."
+        },
+        "success": {
+        "layoutGenerated": "Course layout generated successfully!",
+        "courseCreated": "Course created successfully!",
+        "assignedCreated": "Assigned course created for mentor."
+        },
+        "errors": {
+        "generateFailed": "Failed to generate course layout",
+        "noChapters": "Please generate a course with chapters first",
+        "chapterFailed": "Failed to fetch content for chapter: {{chapter}}",
+        "sessionExpired": "Session expired or you're not logged in. Please log in again.",
+        "noCourseId": "Course created, but unable to retrieve course ID",
+        "createFailed": "Error creating course",
+        "saveFailed": "Failed to save course. Please try again.",
+        "generationFailed": "Error generating course. Please try again.",
+        "assignFailed": "Failed to create assigned course for mentor.",
+        "chapterError": "Error generating content for chapter \"{{chapter}}\""
+        },
+        "warnings": {
+        "chapterSkipped": "Failed to generate content for chapter \"{{chapter}}\". Skipping this chapter."
+        }
+    },
+    "courseDetails": {
+        "loading": "Loading Course Details...",
+        "translating": "Translating content...",
+        "description": "Description",
+        "skills": "Skills",
+        "level": "Level",
+        "duration": "Duration",
+        "outcomesTitle": "Course Outcomes",
+        "chaptersTitle": "Course Chapters",
+        "about": "About",
+        "assessmentTitle": "Final Assessment",
+        "finalAssessment": "Final Assessment",
+        "bestScore": "Best Score",
+        "completed": "Completed",
+        "unlocked": "Unlocked",
+        "locked": "Locked",
+        "downloadCertificate": "Download Certificate",
+        "editTitle": "Edit Course",
+        "buttons": {
+        "back": "Back",
+        "edit": "Edit",
+        "save": "Save Changes",
+        "cancel": "Cancel",
+        "addChapter": "Add Chapter"
+        },
+        "errors": {
+        "noToken": "No authentication token found",
+        "fetchFailed": "Failed to fetch course data",
+        "fetchError": "Error fetching course data:",
+        "updateFailed": "Failed to update course status",
+        "updateError": "Error updating course status:",
+        "translationError": "Error translating content:",
+        "assessmentError": "Error fetching assessments:",
+        "noAssessments": "No assessments found for this course"
+        },
+        "certificate": {
+        "title": "Certificate of Completion",
+        "certifyText": "This is to certify that",
+        "completedText": "has successfully completed the course",
+        "issuedOn": "Issued on:",
+        "issuedBy": "Issued By:"
+        }
+    },
+    "assessment": {
+        "title": "Course End Assessment",
+        "subtitle": "Test your knowledge before completing the course",
+        "loading": "Generating assessment...",
+        "questionLabel": "Question",
+        "ofQuestions": "of",
+        "questions": "questions",
+        "questionsTitle": "Questions",
+        "progress": "Progress",
+        "buttons": {
+        "previous": "Previous",
+        "next": "Next",
+        "submit": "Submit Quiz"
+        },
+        "errors": {
+        "generateFailed": "Error generating course-end assessment:"
+        }
+    },
+    "projects": {
+        "title": "AI Project Recommendations",
+        "subtitle": "Discover innovative project ideas powered by artificial intelligence",
+        "loading": "Fetching personalized recommendations...",
+        "featuresTitle": "Key Features",
+        "filter": {
+        "title": "Filter by Domain",
+        "all": "All"
+        },
+        "buttons": {
+        "getRecommendations": "Get AI Project Recommendations",
+        "loading": "Loading Recommendations..."
+        },
+        "empty": {
+        "title": "No Recommendations Yet",
+        "message": "Click the button above to get personalized AI project recommendations."
+        },
+        "errors": {
+        "notLoggedIn": "User not logged in",
+        "fetchFailed": "Error fetching project recommendations:"
+        }
+    },
+    "sidebar": {
+        "appName": "AthenaAI",
+        "guestName": "Guest",
+        "guestInitial": "G",
+        "guestEmail": "guest@example.com",
+        "logout": "Logout",
+        "aria": {
+        "expand": "Expand sidebar",
+        "collapse": "Collapse sidebar"
+        },
+        "items": {
+        "profile": "Profile",
+        "courses": "Courses",
+        "assessments": "Assessments",
+        "attendance": "Attendance",
+        "video": "Video Conferencing",
+        "projects": "Project Recommendations",
+        "schedule": "AI Schedule",
+        "coding": "Coding",
+        "challenge": "Challenge Yourself",
+        "exams": "Exams",
+        "interviews": "Mock Interviews",
+        "internships": "Internships"
+        }
+    },
+    "notes": {
+        "title": "View Notes",
+        "description": "Transform your learning experience with comprehensive, structured digital notes.",
+        "button": "View Notes"
+    },
+    "flashcards": {
+        "title": "View Flashcards",
+        "description": "Boost your memory with interactive, custom-generated flashcards.",
+        "button": "View Flashcards"
+    }
+}
