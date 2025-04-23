@@ -22,21 +22,23 @@ def create_app():
     # Register blueprints
     from package.main.routes import main_bp
     from package.project_recommendation.routes import project_recomm
-    from package.mentor_mentee.routes import mentor_mentee
+    # from package.mentor_mentee.routes import mentor_mentee
     from package.internships.routes import internship_bp
     from package.users.routes import user_bp
+    from package.topic_recommendation.routes import topic_recomm
     from package.genetic_algorithm.routes import genetic_bp
     from package.transcript.routes import transcript_bp
     from package.coding_workspace.routes import coding_bp
     from package.chatpdf.routes import chatpdf_bp
     app.register_blueprint(main_bp)
     app.register_blueprint(project_recomm, url_prefix="/recommendations")
-    app.register_blueprint(mentor_mentee, url_prefix="/mentor-mentee")
+    # app.register_blueprint(mentor_mentee, url_prefix="/mentor-mentee")
     app.register_blueprint(internship_bp, url_prefix="/api/internships")
     app.register_blueprint(user_bp, url_prefix="/users")
     app.register_blueprint(genetic_bp, url_prefix="/genetic-algorithm")
     app.register_blueprint(transcript_bp, url_prefix="/api/transcript")
     app.register_blueprint(coding_bp, url_prefix="/api/coding")
     app.register_blueprint(chatpdf_bp, url_prefix="/api/chatpdf")
+    app.register_blueprint(topic_recomm, url_prefix="/api/topic")
 
     return app

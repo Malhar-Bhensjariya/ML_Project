@@ -19,6 +19,7 @@ import {
     SearchIcon,
     Gamepad2,
     Menu,
+    ArrowRight ,
     X
 } from 'lucide-react';
 import image from '../../assets/athena.png';
@@ -63,6 +64,7 @@ const SideBar = ({ collapsed, setCollapsed }) => {
     const menuItems = [
         { name: t("sidebar.items.profile"), icon: User, path: '/profile' },
         { name: t("sidebar.items.courses"), icon: BookOpen, path: '/my-courses' },
+        { name: t('Adaptive Learning Pathway'), icon: ArrowRight, path: '/learning-path' },
         { name: t("sidebar.items.assessments"), icon: ClipboardList, path: '/assessment' },
         ...(user?.role === 'mentor' ? [{ name: t("sidebar.items.attendance"), icon: ListChecks, path: '/offline-attendance' }] : []),
         ...(user?.role === 'mentor' || user?.role === 'mentee'

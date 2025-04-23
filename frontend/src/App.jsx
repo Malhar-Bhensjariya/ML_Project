@@ -35,7 +35,7 @@ import MainCourseDetails from "./pages/CourseGen/MainCourseDetails";
 import MainFlashcard from "./pages/Flashcards/MainFlashcard";
 import GamePage from "./pages/Gamification/GamePage";
 import NotesPage from "./pages/Notes/NotesPage";
-
+import LearningPath from "./pages/LearningPath/LearningPath";
 const App = () => (
   <UserProvider>
     <Router>
@@ -46,7 +46,7 @@ const App = () => (
         <Route path="/login" element={<Login />} />
 
         <Route element={<MainLayout />}>
-        <Route path="/home" element={<Home />} />
+          <Route path="/home" element={<Home />} />
           <Route path="/profile" element={<ProfilePage />} />
           <Route path="/my-courses" element={<MyCourses />} />
           <Route path="/create-course" element={<CreateCourse />} />
@@ -63,15 +63,17 @@ const App = () => (
             element={<Feedback />}
           />
           <Route path="/internships" element={<InternshipListings />} />
-          <Route path="/coding" element={<CodeEditor/>} />
-          <Route path="/chat-with-pdf" element={<PDFChatComponent/>} />
+          <Route path="/coding" element={<CodeEditor />} />
+          <Route path="/chat-with-pdf" element={<PDFChatComponent />} />
           <Route path="/game" element={<GamePage />} />
+          <Route path="/learning-path" element={<LearningPath />} />
+
           <Route
             path="/recommend-projects"
             element={<AIProjectRecommendations />}
           />
 
-          
+
           <Route path="/flashcards/:courseId" element={<MainFlashcard />} />
           <Route path="/notes/:courseId" element={<NotesPage />} />
         </Route>
