@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import CourseCard from '../../components/course/CourseCard';
+import RecommendedCourses from './RecommendedCourses';
 import { useNavigate } from 'react-router-dom';
 import { useUser } from '../../context/UserContext';
 import { PlusCircle, BookOpen } from 'lucide-react';
@@ -118,6 +119,7 @@ const MyCourses = () => {
                     </div>
                 </div>
             </div>
+            <RecommendedCourses />
         </div>
     );
 };

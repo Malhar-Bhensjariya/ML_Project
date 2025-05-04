@@ -36,6 +36,8 @@ import MainFlashcard from "./pages/Flashcards/MainFlashcard";
 import GamePage from "./pages/Gamification/GamePage";
 import NotesPage from "./pages/Notes/NotesPage";
 import LearningPath from "./pages/LearningPath/LearningPath";
+import CreateRecommend from "./pages/CourseGen/CreateRecommend";
+
 const App = () => (
   <UserProvider>
     <Router>
@@ -50,6 +52,7 @@ const App = () => (
           <Route path="/profile" element={<ProfilePage />} />
           <Route path="/my-courses" element={<MyCourses />} />
           <Route path="/create-course" element={<CreateCourse />} />
+          <Route path="/create-recommendation" element={<CreateRecommend />} />
           {/* <Route path="/course/:courseId" element={<CourseDetails />} /> */}
           <Route path="/course/:courseId" element={<MainCourseDetails />} />
           <Route

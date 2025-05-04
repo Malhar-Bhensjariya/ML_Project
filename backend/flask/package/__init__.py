@@ -30,6 +30,7 @@ def create_app():
     from package.transcript.routes import transcript_bp
     from package.coding_workspace.routes import coding_bp
     from package.chatpdf.routes import chatpdf_bp
+    from package.recommended_course.routes import recommend_bp
     app.register_blueprint(main_bp)
     app.register_blueprint(project_recomm, url_prefix="/recommendations")
     # app.register_blueprint(mentor_mentee, url_prefix="/mentor-mentee")
@@ -39,6 +40,7 @@ def create_app():
     app.register_blueprint(transcript_bp, url_prefix="/api/transcript")
     app.register_blueprint(coding_bp, url_prefix="/api/coding")
     app.register_blueprint(chatpdf_bp, url_prefix="/api/chatpdf")
+    app.register_blueprint(recommend_bp, url_prefix="/api/recommend-courses")
     app.register_blueprint(topic_recomm, url_prefix="/api/topic")
 
     return app
